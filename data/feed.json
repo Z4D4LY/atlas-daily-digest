@@ -1,13 +1,503 @@
 {
-  "updated": "2026-08-22T06:17:21.502Z",
+  "updated": "2026-08-23T06:18:54.545Z",
   "articles": [
     {
+      "id": "ha-pbmEL7L5hvIV",
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "source": "hackernews",
+      "score": 3,
+      "summary": "The article explains that while researching poorly documented CPUID bits in the Athlon MP and Athlon XP, the author had to swap many CPUs and eventually uncovered an interesting historical detail about AMD’s K7-era chips. It notes that Athlon XP and Athlon MP used the same core and that some Athlon XPs could be converted into MPs by restoring a bridge AMD laser-cut during manufacturing. The piece matters because it documents a rarely discussed corner of CPU history: how undocumented hardware bits, manufacturing decisions, and processor binning affected compatibility and even allowed enthusiast-grade modifications.",
+      "date": "2026-08-23T05:51:01.000Z",
+      "type": "tech"
+    },
+    {
+      "id": "bb-id4zTkGRSP54",
+      "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "bbc",
+      "score": 0,
+      "summary": "Mark Carney said Canada would impose retaliatory tariffs after talks with Washington collapsed and accused the U.S. of launching a trade war, calling the latest American moves a misjudgment aimed at dividing the two countries. The article says Canada is responding to new 50% U.S. tariffs on about $20 billion worth of imports, on top of existing duties on steel, aluminum, autos, and lumber, with countermeasures set to begin September 8 and hit goods like steel, dairy, appliances, electronics, wine, cement, clothing, and hockey gear. It also reports Trump’s claim that Canada wants the “benefits” of being a U.S. state, underscoring how far relations have deteriorated. The piece matters because it shows the dispute has escalated from negotiations into a broad economic conflict that could hit major industries and consumers on both sides of the border.",
+      "date": "2026-08-23T05:46:43.000Z",
+      "type": "us"
+    },
+    {
+      "id": "ha-fclvVyUHrgQp",
+      "title": "The Golden Rule for Becoming a Better Writer",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "source": "hackernews",
+      "score": 39,
+      "summary": "The article argues that the golden rule for becoming a better writer is simple: read as much as you can, and do so widely and well. Its message is that strong writing grows from sustained exposure to different styles, voices, and ideas rather than from shortcuts or formulas. That matters because it reframes writing improvement as a habit of serious reading, suggesting that the fastest way to improve prose is to study what good writing looks and feels like in practice.",
+      "date": "2026-08-23T03:32:25.000Z",
+      "type": "tech"
+    },
+    {
+      "id": "ha-t04jRRglJbAe",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "source": "hackernews",
+      "score": 66,
+      "summary": "MartyPC is a cross-platform emulator for early IBM PCs, written in Rust, with support for Windows, Linux, and macOS. It aims to accurately emulate 8088-era systems such as the IBM PC, XT, PCjr, and Tandy 1000, and the project also has a web version that runs in the browser. The article matters because it shows an active, modern effort to preserve and reproduce classic PC hardware behavior, which is useful for running old software, studying early IBM-compatible systems, and exploring cycle-accurate emulation on current machines.",
+      "date": "2026-08-23T03:13:16.000Z",
+      "type": "tech"
+    },
+    {
+      "id": "ha-f2wmW7j5cZ9g",
+      "title": "I Dream of Quieter Computing",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "source": "hackernews",
+      "score": 45,
+      "summary": "The article argues for a quieter model of computing, pushing back against the noisy, attention-fragmenting defaults of modern devices and software. It frames this as both a design and cultural issue: computers should be more restrained, less interruptive, and better at disappearing into the background so people can focus on their work and lives. The piece matters because it challenges the industry’s habit of equating more features, alerts, and motion with better products, and instead makes the case for calmer, more humane digital experiences.",
+      "date": "2026-08-23T02:33:22.000Z",
+      "type": "tech"
+    },
+    {
+      "id": "go-46qOX-9X68j5",
+      "title": "Collins asks White House to consider ‘negative impact’ of Canada trade war - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGZjY0tIMXVVNThhbFZfclpCOXN4NTlBWDY2OUZ3V1JRdVBMUDFoNWl2a29YcHVHazQybGpYbTd1SFlsX21MVG5EZDlkZk1Kb3prZzR0N1lMZG5XWmxFTUhvb1NUNUxrY0psaWVacDFYNFFJRVJYTWRxWmVyR3RYUUpJSDlYaU1rT1pRUnBiUGFHeXpwYnfSAZsBQVVfeXFMTkdtMnBEMjhKVnkxR0lOUXlxQXNkWDNuWGFCWHhOeXRjLUF3c3ZnM2dPcFQ0RlgtMURIdnZqRUtSN05SUlJFMmJnRnVEYkVnbHJjWEZvT0QyM0ZsdHpodkh2Y1dQaHdGWnZtQkowaU9Wb1VGMi1GV0NheTdTVm1XdER4VnJsSFowcXJodXRVblhGeV9EdW5ZOXlMNWs?oc=5",
+      "source": "googlenews",
+      "score": 0,
+      "summary": "Sen. Susan Collins urged the White House to weigh the “negative impact” of a tariff fight with Canada, arguing that Maine businesses, farmers, lobstermen, and workers will face higher costs and more uncertainty if the trade dispute escalates. In a statement posted Saturday, the Maine Republican said she wants both countries back at the negotiating table and warned that retaliatory Canadian tariffs could hurt supply chains and local economies. The article matters because Collins is breaking with many in her party by pressing the administration to rethink tariffs on a key trading partner, highlighting how deeply Maine’s economy is tied to cross-border commerce.",
+      "date": "2026-08-23T02:07:00.000Z",
+      "type": "us"
+    },
+    {
+      "id": "go-AnPLhpWAuR-X",
+      "title": "Texas judge denies Karmelo Anthony’s request for new trial in deadly stabbing at track meet - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnpnd0NFSGpTVjAwTS1wUk04a1cycXduWE1GTThtQmRua3U3NDdqMzMxSkpzZXQwYWpadDFheW9Mand5XzdWRWlXQmlVc01rbXFCbmc2M050MHJESkNaampyWTlCXzZnMThlRGU5bXl2Z3FpNVZhTmlNU05Xb1QwT1I4WjV3NHhKc0wxRlMxMmZCamcxOHRBeXZCMUY5a2IzTzRzdWd0TGlfUWl5TTBVQg?oc=5",
+      "source": "googlenews",
+      "score": 0,
+      "summary": "A Texas judge on Saturday denied Karmelo Anthony’s request for a new trial in the fatal stabbing of 17-year-old Austin Metcalf at a Frisco high school track meet, leaving in place Anthony’s murder conviction and 35-year prison sentence. Judge Michael Chitty said that after reviewing the motion, the record, the evidence, the arguments, and the case law, the request should be denied. Anthony, now 19, was convicted in June after jurors rejected his claim that he acted in self-defense during the confrontation in the bleachers at the April 2025 meet. The ruling matters because it keeps one of the region’s most closely watched school-sports homicide cases headed toward appeal while closing off Anthony’s latest bid to overturn the verdict.",
+      "date": "2026-08-23T01:55:00.000Z",
+      "type": "us"
+    },
+    {
+      "id": "bb-SGK1n3ysDokB",
+      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "bbc",
+      "score": 0,
+      "summary": "Police in central Sweden say the person killed in Friday’s sword attack at Brinell School in Fagersta was a 17-year-old girl. Two boys, ages 12 and 17, were seriously injured, and a third person suffered minor wounds; an 18-year-old suspect has been detained. Authorities are treating the case as murder and attempted murder, and police said officers fired their weapons when they arrived, though it is unclear whether the suspect was hit. The story matters because it highlights a rare and shocking act of school violence in Sweden and raises urgent questions about motive, security, and how the attack unfolded.",
+      "date": "2026-08-23T01:34:15.000Z",
+      "type": "europe"
+    },
+    {
+      "id": "ha-AdRzysKJQpYG",
+      "title": "The Art and Beauty of Blade Runner",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "source": "hackernews",
+      "score": 48,
+      "summary": "The article argues that Blade Runner endures because Ridley Scott and his collaborators treated every frame as an act of visual design, aiming to create beauty shot by shot. It highlights how the film’s minimalist Vangelis score, dense sound effects, noir lighting, smoky cityscapes, and iconic production elements such as the spinners, Tyrell’s office, and Gaff’s origami all combine into a unified aesthetic. The piece emphasizes that the movie’s style is not just decoration but the source of its emotional power, making its dark, futuristic world feel immersive, memorable, and influential. That matters because Blade Runner helped define the visual language of modern science fiction and continues to shape film, design, and cyberpunk imagery decades later.",
+      "date": "2026-08-23T00:56:03.000Z",
+      "type": "tech"
+    },
+    {
+      "id": "de-6VvfGNU_Ww_k",
+      "title": "I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway",
+      "url": "https://dev.to/arqamwd/i-wrote-the-privacy-rule-enforced-it-commented-it-and-shipped-the-leak-anyway-500g",
+      "source": "devto",
+      "score": 7,
+      "summary": "This DEV Community post, published as a Summer Bug Smash submission on August 21, 2026, is titled \"I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway,\" signaling a firsthand account of a privacy failure despite explicit safeguards. The available description says the author wrote a scrubbing policy, suggesting the story centers on how a rule meant to remove sensitive data still failed in practice and allowed a leak to ship. Its significance is in showing how privacy protections can break down not just from missing controls, but from gaps between policy, enforcement, and real-world deployment. The piece likely matters to developers and security teams because it frames a concrete cautionary tale about how easily sensitive data can slip through even when everyone thinks the system is covered.",
+      "date": "2026-08-23T00:18:38Z",
+      "type": "tech"
+    },
+    {
+      "id": "de-EmzFNRKSxiYA",
+      "title": "My performance optimization silently disabled the feature the app exists for",
+      "url": "https://dev.to/arqamwd/my-performance-optimization-silently-disabled-the-feature-the-app-exists-for-2e1k",
+      "source": "devto",
+      "score": 6,
+      "summary": "The article describes how a performance optimization accidentally disabled the app’s core feature by bounding a database read too aggressively, so the app no longer behaved as intended. It was written as a Summer Bug Smash submission and framed as a real debugging lesson about how an optimization can silently remove functionality without obvious crashes or errors. What makes it matter is the warning that performance work can change runtime behavior in subtle ways, so developers need to test the exact release artifact users will get, not just the debug build.",
+      "date": "2026-08-23T00:14:15Z",
+      "type": "tech"
+    },
+    {
+      "id": "go-pNfD3GylCZoN",
+      "title": "Frustration mounts for thousands still without power after deadly Indiana storms - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzdqQUd6ZHZlRVg0S3ltcEJ1YnJMdnI3VlZRS3ZraThHcEtoSGFrM3hqUFNrdVcxZW13RGdJcmJycGZFYjU0QVRwbGNCZldOY1NoWk1iRTFpVWU0ZExudFJWWUtPN29IbmlzRFRjanM4c1JrV2lXUnFhUENvR3pIZjYwcTV1ekdqMGU5RmhyTGNCY3YtYkY5ZnktaXZ3aWhoNXc?oc=5",
+      "source": "googlenews",
+      "score": 0,
+      "summary": "Several days of powerful storms beginning Aug. 11 battered northwest Indiana, killing at least seven people and displacing about 1,000, while leaving more than 30,100 NIPSCO customers without electricity as of Saturday. The outages hit Gary especially hard, where the storm cut power to more than half of residents in a city with high poverty levels, and utility crews were still racing to restore service after a peak of 374,500 customers lost power. The article matters because it shows how a major weather disaster can turn into a prolonged public-safety and hardship crisis, with families still coping days later without lights, cooling, and basic services.",
+      "date": "2026-08-22T23:50:00.000Z",
+      "type": "us"
+    },
+    {
+      "id": "go-6Vh4Il2Vip0o",
+      "title": "Iran warns of retaliation against countries joining US ‘economic war’ - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
+      "source": "googlenews",
+      "score": 0,
+      "summary": "Iran’s Supreme National Security Council secretary Mohsen Rezaei warned on state broadcaster IRIB that nearby countries should not join the U.S. “economic war” against Iran, saying any state that participates would be treated as an enemy. He said Tehran would respond in kind and could target those countries’ interests if they support Washington’s pressure campaign. The warning is significant because it broadens Iran’s confrontation with the U.S. beyond sanctions on Tehran itself, raising the stakes for Gulf and regional states that depend on oil shipping routes through the Persian Gulf and Strait of Hormuz.",
+      "date": "2026-08-22T23:27:36.000Z",
+      "type": "us"
+    },
+    {
+      "id": "he-q_8pP6fDv_g3",
+      "title": "Morocco orders Caracal helicopters as French arms purchases reach €532 million",
+      "url": "https://en.hespress.com/144210-morocco-orders-caracal-helicopters-as-french-arms-purchases-reach-e532-million.html",
+      "source": "hespress",
+      "score": 0,
+      "summary": "Morocco ordered Airbus H225M Caracal military helicopters under a contract that took effect in 2025, according to France’s annual report on arms exports. The report says Moroccan orders from French defense companies reached €532.1 million in 2025, lifting the total value of Moroccan purchases from France over the past decade to €1.325 billion. The document does not say how many Caracal helicopters were ordered or what the helicopter deal was worth on its own. The broader significance is that the purchase marks a major jump in French-Moroccan defense ties and shows Morocco became one of France’s biggest arms customers that year.",
+      "date": "2026-08-22T22:46:12.000Z",
+      "type": "morocco"
+    },
+    {
+      "id": "ha-EenScwPu2t3I",
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "source": "hackernews",
+      "score": 84,
+      "summary": "Prime Intellect’s NanoGPT Speedrun Frontier article reports a large-scale autonomous AI research experiment on the nanoGPT optimizer track, where 153 runs across 18 frontier models tried to reduce the number of steps needed to train a 124M-parameter GPT to a target validation loss. The best result came from Fable 5, which reached 2,726 steps and closed 81.7% of the gap to the human record, while several other models also made meaningful progress on the same constrained task. The experiment matters because it tests whether frontier models can conduct real research under fixed rules and limited compute, and Prime Intellect says it released traces and run data so others can study how the models reasoned. It also shows that, despite impressive performance, none of the runs produced a fundamentally new optimization method, which is an important signal about the current limits of autonomous AI research.",
+      "date": "2026-08-22T22:14:27.000Z",
+      "type": "tech"
+    },
+    {
+      "id": "he-obqdUJjFSUhF",
+      "title": "Ouahbi reiterates Morocco’s historical, geographical rights over Ceuta and Melilla",
+      "url": "https://en.hespress.com/144208-ouahbi-reiterates-moroccos-historical-geographical-rights-over-ceuta-and-melilla.html",
+      "source": "hespress",
+      "score": 0,
+      "summary": "In a Friday interview with Morocco’s public broadcaster 2M, Justice Minister Abdellatif Ouahbi reiterated that Morocco continues to assert its sovereignty and “historical” and “geographical” rights over Ceuta and Melilla. He said the issue should remain part of dialogue with Spain and suggested creating a dedicated dialogue commission to address the dispute rather than leaving it unspoken. Ouahbi also called for a “definitive solution” to the current status of the two enclaves, framing them as territories Morocco believes should eventually return to the kingdom. The remarks matter because they revive one of the most sensitive and long-running points of tension in Moroccan-Spanish relations, with Madrid rejecting any challenge to Spanish sovereignty.",
+      "date": "2026-08-22T21:00:10.000Z",
+      "type": "morocco"
+    },
+    {
+      "id": "np-AAKNXuCMRaqw",
+      "title": "Trump administration&apos;s 75-country visa ban was illegal, judge rules",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+      "source": "npr",
+      "score": 0,
+      "summary": "A federal judge in New York struck down the Trump administration’s policy of suspending immigrant visas for people from 75 countries, ruling that it violated federal immigration law by discriminating on the basis of nationality. The policy, pushed by the State Department under Secretary of State Marco Rubio, had blocked visas for applicants even after consular officers individually found they were likely to be self-sufficient, and the judge said the Immigration and Nationality Act does not allow nationality-based visa bans. The ruling vacated the ban and set aside visa denials issued solely under that policy, a significant setback for the administration’s effort to use ‘public charge’ concerns to broadly restrict legal immigration. It matters because it reaffirms that visa decisions must be made case by case, not by sweeping country-based exclusions.",
+      "date": "2026-08-22T20:53:19.000Z",
+      "type": "us"
+    },
+    {
+      "id": "he-ISF8IjYTJiFs",
+      "title": "Canada PM Carney slams trade &#039;war&#039; launched by US",
+      "url": "https://en.hespress.com/144205-canada-pm-carney-slams-trade-war-launched-by-us.html",
+      "source": "hespress",
+      "score": 0,
+      "summary": "Canadian Prime Minister Mark Carney said the United States had launched a trade war after talks broke down and Washington moved ahead with steep new tariffs, including a 50% duty on roughly $28 billion of Canadian goods. He said Canada would retaliate “dollar for dollar,” suspended trade negotiations with the U.S., and ordered negotiators back to Ottawa. The dispute matters because it marks a sharp escalation in U.S.-Canada economic relations and could hit workers, farmers, and businesses on both sides of the border if the tariffs remain in place.",
+      "date": "2026-08-22T20:42:15.000Z",
+      "type": "morocco"
+    },
+    {
+      "id": "de-r7tyRLez9SYQ",
+      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
+      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
+      "source": "devto",
+      "score": 7,
+      "summary": "The article argues that AI coding agents often miss newer Dart and Flutter capabilities because of training cutoffs, and proposes a `dart-sdk-skills` package to close that gap with version-aware, on-demand guidance. It uses progressive disclosure: agents keep a compact feature matrix for Dart 1.0 through 3.14, then load the exact changelog or reference only when a task needs it, instead of stuffing huge prompts with the entire language history. The piece also lays out a 4-stage modernization path for legacy codebases, including moving from Dart 1.x to 2.0, then to 2.12 null safety, and onward to Dart 3’s stricter rules. That matters because it shows a practical way to make AI assistants safer and more accurate on real Flutter projects, while also making legacy app upgrades and skill installation easier with a single command.",
+      "date": "2026-08-22T20:29:26Z",
+      "type": "tech"
+    },
+    {
+      "id": "bb-a1zY8JnY7bb4",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "bbc",
+      "score": 0,
+      "summary": "Mark Carney is facing a major political and economic test after ordering Canadian negotiators to walk away from late-stage talks with the White House rather than accept what he said were last-minute U.S. demands that offered too little in return. The BBC says both sides blame each other for the collapse of the tentative deal, but Carney has argued Canada could not compromise its sovereignty and was not getting a fair economic partnership. The decision comes as Canada braces for new 50% U.S. tariffs on some goods, adding pressure on Carney to convince Canadians that absorbing short-term pain is worth the chance of better terms later. The story matters because it could reshape Canada-U.S. trade relations and measures whether Carney can sustain domestic support while confronting Trump’s trade pressure.",
+      "date": "2026-08-22T20:02:46.000Z",
+      "type": "us"
+    },
+    {
+      "id": "he-bYwPxda8hfwT",
+      "title": "African Beach Volleyball Championship (Men): Morocco Crowned Champions, Qualify for 2028 Olympics",
+      "url": "https://en.hespress.com/144202-african-beach-volleyball-championship-men-morocco-crowned-champions-qualify-for-2028-olympics.html",
+      "source": "hespress",
+      "score": 0,
+      "summary": "Morocco’s men’s beach volleyball team won the African Championship in Alexandria after beating Algeria 2-0 in the final at Abu Heif Beach, taking the first set 21-19 and the second 21-13 without needing a deciding set. The title gave Morocco the continental crown and secured its place at the 2028 Los Angeles Olympic Games, making the victory significant beyond the immediate trophy. The result also underscores Morocco’s strength in African beach volleyball and its ability to convert continental success into Olympic qualification.",
+      "date": "2026-08-22T19:33:13.000Z",
+      "type": "morocco"
+    },
+    {
+      "id": "bb-jAohkx4FhbKB",
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "bbc",
+      "score": 0,
+      "summary": "BBC reports that Erin Patterson is appealing her murder convictions over a major trial irregularity: the jury was housed in the same hotel as prosecutors, a key police witness, and journalists while they were deliberating. Her lawyers say a table tennis tournament created a room shortage and a throat lozenge note helped expose the booking confusion, which they argue could have caused subconscious influence even without proof of direct contact. The prosecution says there is no evidence the jurors communicated with anyone else, but Patterson’s team says the mix-up was a fundamental breach that undermined the verdicts. The case matters because it could determine whether the convictions in one of Australia’s most notorious mushroom murder cases stand or are overturned on appeal.",
+      "date": "2026-08-22T19:03:03.000Z",
+      "type": "asia"
+    },
+    {
+      "id": "he-8JI3Nv6h2gkv",
+      "title": "Morocco ranks 19th in global index of AI-ready outsourcing destinations",
+      "url": "https://en.hespress.com/144180-morocco-ranks-19th-in-global-index-of-ai-ready-outsourcing-destinations.html",
+      "source": "hespress",
+      "score": 0,
+      "summary": "Morocco ranked 19th out of 25 major outsourcing destinations in the 2026 Global Outsourcing AI Readiness Index published by Ataraxis Management, scoring 43.35 out of 100. The country placed fifth among the eight African countries in the ranking and second in the MENA region behind Egypt, showing that it is becoming a credible AI-enabled outsourcing hub but still trails the leaders. Its score broke down into 48 for population-level AI adoption, 41 for workforce AI literacy, 39 for enterprise AI adoption, and 46 for the AI education pipeline. The result matters because it highlights both Morocco’s strengths in digital infrastructure and talent development and the gap it still needs to close in business adoption if it wants to move up in a fast-changing outsourcing market.",
+      "date": "2026-08-22T19:02:07.000Z",
+      "type": "morocco"
+    },
+    {
+      "id": "he-IDnpCrrzpnlR",
+      "title": "Crews near full control of Chefchaouen forest fire after four days",
+      "url": "https://en.hespress.com/144197-crews-near-full-control-of-chefchaouen-forest-fire-after-four-days.html",
+      "source": "hespress",
+      "score": 0,
+      "summary": "Firefighters in Chefchaouen province were working Saturday to put out remaining hotspots in the Tazart forest fire after surrounding the blaze on all sides, with preliminary field reports saying the fire had been largely contained. The blaze had burned about 15 hectares over four days, and crews were focused on eliminating roots and other smoldering material that could reignite in strong winds. Authorities expected to declare the fire fully extinguished once those hidden hotspots were dealt with. The article matters because it shows how Moroccan fire crews are still battling lingering wildfire risks even after containment, especially in dry, windy conditions that can bring fires back.",
+      "date": "2026-08-22T18:37:53.000Z",
+      "type": "morocco"
+    },
+    {
+      "id": "ha-U94_yoKVkekW",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "hackernews",
+      "score": 271,
+      "summary": "The article argues that local LLMs often seem worse than they really are because hardware, software, and inference settings vary widely between machines, so the same model weights can produce different token outputs and behavior. It points out that factors like mixed GPU generations, differing instruction sets, attention kernels, KV-cache handling, and weight quantization can all subtly change results, even when two people are running the “same” model. The author also warns that quick zero-shot prompt checks are misleading and says real evaluation should use representative benchmarks tied to actual workloads, especially long-context and tool-using tasks. The piece matters because it explains why side-by-side comparisons of local models can be unreliable unless testing methodology is controlled and realistic.",
+      "date": "2026-08-22T18:14:16.000Z",
+      "type": "tech"
+    },
+    {
+      "id": "ha-Box-iuPwPVyO",
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "source": "hackernews",
+      "score": 363,
+      "summary": "Moxie Marlinspike shares an old journal entry from around 2006 titled “Scrap,” describing his move to Pittsburgh and the surprising reality of arriving in winter as someone from the West Coast who had actually been excited for it. The piece is personal and reflective, framing the move as being in the right place in life but at the wrong time of year, which gives the note a stark, atmospheric feel. It matters because it offers a rare glimpse into Marlinspike’s earlier thinking and the lived experience behind a formative period in his life, making the post resonate as both a personal snapshot and a piece of internet nostalgia.",
+      "date": "2026-08-22T18:08:56.000Z",
+      "type": "tech"
+    },
+    {
+      "id": "de-q-cIiixz0BDB",
+      "title": "The Planner Made the Same 3 Mistakes Every Time. A Bigger Model Didn't Fix It.",
+      "url": "https://dev.to/debashish_ghosal/the-planner-made-the-same-3-mistakes-every-time-a-bigger-model-didnt-fix-it-3170",
+      "source": "devto",
+      "score": 12,
+      "summary": "This DEV.to article, by Debashish Ghosal, is the third installment in a series about building PlannerCritic, an open-source engine for evaluating planner behavior. The key point is that the planner kept making the same three mistakes repeatedly, and simply switching to a bigger model did not solve the problem. That matters because it suggests the failures were caused by the system design or evaluation setup rather than raw model capability, reinforcing the idea that better results often come from fixing the pipeline, not just upgrading the model. The article’s framing also signals a practical lesson for LLM builders: persistent errors need diagnosis and critique, not just more parameters.",
+      "date": "2026-08-22T17:56:02Z",
+      "type": "tech"
+    },
+    {
+      "id": "he-UlpEdZADMhtJ",
+      "title": "Moroccan Christian groups press parties on religious freedom before election",
+      "url": "https://en.hespress.com/144194-moroccan-christian-groups-press-parties-on-religious-freedom-before-election.html",
+      "source": "hespress",
+      "score": 0,
+      "summary": "Two Moroccan Christian groups are trying to open talks with political parties ahead of the September 23 elections to push religious freedom, freedom of belief, and greater participation for non-Muslims into campaign and government platforms. The Coordination of Moroccan Christians said it especially wants left-wing parties to address the situation of Christians and other religious minorities, while the Union of Moroccan Christians said it has already approached several parties with proposals and the possibility of political engagement. The groups say most parties treat religious freedom as a personal issue rather than adopting formal policies, which makes their effort a bid to force the subject into the public political debate. The issue matters because Morocco’s constitution protects some religious practice but also limits parties from being founded on religion, leaving Christian minorities with little institutional recognition and few political channels to press their demands.",
+      "date": "2026-08-22T17:35:06.000Z",
+      "type": "morocco"
+    },
+    {
+      "id": "he-LJXCamPNVKMH",
+      "title": "Morocco enacts lawyers law as strike and constitutional dispute continue",
+      "url": "https://en.hespress.com/144200-morocco-enacts-lawyers-law-as-strike-and-constitutional-dispute-continue.html",
+      "source": "hespress",
+      "score": 0,
+      "summary": "Morocco’s Law No. 66.23 regulating the legal profession officially entered into force after being published in Official Gazette No. 7536 on August 20 under Royal Decree No. 1.26.75 issued August 18. The move came despite an ongoing nationwide lawyers’ suspension of services and their objection to the law being published without a substantive Constitutional Court ruling on its contested provisions. The Constitutional Court had already said it could not examine the text because the referral it received was incomplete, which left the law free to be promulgated even as lawyers argued it undermines their profession’s independence. The dispute matters because it has turned a legal reform into a broader confrontation over constitutional procedure, professional autonomy, and the state’s oversight of the justice system.",
+      "date": "2026-08-22T17:00:33.000Z",
+      "type": "morocco"
+    },
+    {
+      "id": "bb-QnGuiCBf6fLb",
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "bbc",
+      "score": 0,
+      "summary": "Erik Slavin, the editor-in-chief of the US military newspaper Stars and Stripes, says he believes he was fired by the Department of Defense for telling CBS that censorship would be a \"red line\" in a hypothetical situation. He and the paper’s publisher were dismissed for insubordination, and Slavin said the move came amid growing pressure on Pentagon journalists, including a long gap since the last Pentagon press conference. The article matters because Stars and Stripes has historically been expected to remain editorially independent, and Slavin warns that firing reporters over comments like this could chill coverage of the military and make officials even less willing to speak on the record.",
+      "date": "2026-08-22T16:57:19.000Z",
+      "type": "us"
+    },
+    {
+      "id": "he--O51pjGQXsri",
+      "title": "Eight arrested in migrant-smuggling cases linked to Ceuta and France",
+      "url": "https://en.hespress.com/144190-eight-arrested-in-migrant-smuggling-cases-linked-to-ceuta-and-france.html",
+      "source": "hespress",
+      "score": 0,
+      "summary": "Spanish and French authorities arrested eight suspects in two separate migrant-smuggling investigations tied to Ceuta and Alicante, according to the article. In the Ceuta case, five people were detained in two probes into boat crossings from the Spanish enclave to mainland Spain; police said one network allegedly charged about €9,000 per passenger and moved migrants across the Strait of Gibraltar. In the second case, three suspects were arrested over more than 20 suspected transfers from Alicante to France via the La Jonquera-Le Perthus border crossing, with two of them later remanded in custody. The arrests matter because they show how organized groups are profiting from irregular migration routes between North Africa, Spain, and France, and how cross-border police cooperation is being used to disrupt them.",
+      "date": "2026-08-22T16:16:38.000Z",
+      "type": "morocco"
+    },
+    {
+      "id": "de-oWXAusGkeAOg",
+      "title": "I built Kintara because apparently having too many hobbies eventually leads to building your own document management system.",
+      "url": "https://dev.to/sizzlebop/i-built-kintara-because-apparently-having-too-many-hobbies-eventually-leads-to-building-your-own-j2f",
+      "source": "devto",
+      "score": 7,
+      "summary": "The article introduces Kintara, a self-hosted document library and reader the author built after joking that having too many hobbies eventually led to creating their own document management system. Kintara runs in Docker and watches a folder, suggesting it is designed to automatically ingest and organize files without relying on a cloud service. The piece matters because it reflects the growing self-hosted software movement and shows how a personal need can turn into a practical open-source-style tool for managing documents locally. It also likely appeals to hobbyists and power users who want more control over their reading and file workflow than traditional commercial document managers provide.",
+      "date": "2026-08-22T15:47:49Z",
+      "type": "tech"
+    },
+    {
+      "id": "go-PB0_QbxGitqs",
+      "title": "Global oil inventories on the decline again amid Hormuz stalemate - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWpLa1MxOE44aDRGR0FVSzlaTUVLQlAydlFfLWFFR2RHMHIydnkzaGhJVkhqYk83azVEYUtLdDVWMFRXYnZ5ZFZaTlFjdnRDajNQNVNLQ0Y2WXJXNDk4NW9kWC1MZEtHYTU4aGxpdVUxenA0ckFiOFlOcTJVZzBkdWFRa3JxWHIwbW1zeUpQcl8tbkhJX21OODZ6NXh6dmhrd3Y2ZndDOENNUTdiZnVVUDJkbFRCbG9aRlE?oc=5",
+      "source": "googlenews",
+      "score": 0,
+      "summary": "Global oil inventories are falling again as the Strait of Hormuz remains effectively closed, with the International Energy Agency saying measurable global stocks dropped by 69 million barrels in July to just under 7.9 billion barrels. The drawdown has now cut inventories by about 410 million barrels since the end of February, forcing the market to keep using emergency reserves and tanked supplies to make up for disrupted Middle East flows. The article matters because it shows that the world’s oil cushion is getting thinner even after months of adaptation, raising the risk of sharper price spikes and supply stress if the Hormuz stalemate continues.",
+      "date": "2026-08-22T15:21:00.000Z",
+      "type": "asia"
+    },
+    {
+      "id": "he-9H0edmIs5-LK",
+      "title": "UN report cites two Moroccan rights council initiatives as good practices",
+      "url": "https://en.hespress.com/144191-un-report-cites-two-moroccan-rights-council-initiatives-as-good-practices.html",
+      "source": "hespress",
+      "score": 0,
+      "summary": "A United Nations report highlighted two initiatives by Morocco’s National Human Rights Council (CNDH) as good practices: a nationwide campaign against technology-facilitated violence targeting women and girls, and a project that helped children prepare their own alternative report for the UN Committee on the Rights of the Child. The anti-digital-violence campaign, launched in November 2025, included a 16-day caravan with 36 stops across 12 cities and used AI-generated characters to share victims’ accounts while protecting their identities. The children’s reporting project mattered because it gave children a direct voice in assessing their rights before an international monitoring body, showing how national institutions can both fight online abuse and strengthen child participation in human-rights oversight.",
+      "date": "2026-08-22T15:04:49.000Z",
+      "type": "morocco"
+    },
+    {
+      "id": "ha--DywEtHgJwDP",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "source": "hackernews",
+      "score": 362,
+      "summary": "The article riffs on the pattern behind ElevenLabs and TwelveLabs by noting that ElevenLabs is the well-known speech synthesis company, while a friend mentioned Twelve Labs as an AI video company that seems to echo the same naming idea. The author then jokes that searching for ThirteenLabs unexpectedly turns up a real project: an AI system for 3D scenery, showing the naming trend has spread beyond just audio and video. The piece matters because it highlights how quickly AI startups are clustering around catchy, number-based brand names while also hinting at the growing specialization of AI across different media types.",
+      "date": "2026-08-22T14:54:07.000Z",
+      "type": "tech"
+    },
+    {
+      "id": "bb-SNeLGS2pYyZL",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "bbc",
+      "score": 0,
+      "summary": "A 48-year-old father from Nagoya was reprimanded by police after leaving his 7-year-old son alone on Mount Fuji for several hours while he continued hiking with his older child. The boy had complained of being tired, so his father told him to wait near the sixth station on the Fujinomiya route, gave him a soft drink and snack, and kept climbing; mountain hut staff later found the child sitting alone in foggy, rainy conditions at more than 2,000 meters altitude. Police located the father near the eighth station and ordered him to return, then reunited him with the boy, who was unharmed but reportedly tired and upset after waiting about eight hours. The case matters because it highlights how dangerous Mount Fuji can be when weather changes quickly, and Japanese police publicly warned that children should never be left behind on the mountain.",
+      "date": "2026-08-22T14:35:11.000Z",
+      "type": "asia"
+    },
+    {
+      "id": "bb-INRnNN-FflkR",
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "bbc",
+      "score": 0,
+      "summary": "At least 14 people were killed in military air strikes on a monastery in Myaung township, in Myanmar’s central Sagaing region, as civilians gathered there for a Buddhist Lent meditation retreat. A local rescue worker said the site was hit twice, and the dead were all elderly, with monks among those injured; opposition fighters said the victims included 11 men and three women, aged roughly 50 to 70. The monastery was about 70 kilometers west of Mandalay, and the military has not commented on the attack. The strike matters because it highlights the junta’s continued use of air power against civilian religious sites in a conflict zone, raising fears for people sheltering or attending religious gatherings.",
+      "date": "2026-08-22T13:48:06.000Z",
+      "type": "asia"
+    },
+    {
+      "id": "de-vROmmsQrATkk",
+      "title": "Job Hunt With a Bot?",
+      "url": "https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3",
+      "source": "devto",
+      "score": 5,
+      "summary": "Debbie O’Brien’s post “Job Hunt With a Bot?” appears to introduce a practical, personal experiment with using AI bots to help during a job search, published on DEV Community on Aug. 22, 2026. The article is timely because it reflects how job seekers are increasingly turning to automation and AI assistants to manage repetitive parts of the search process, from organizing opportunities to drafting outreach. It matters because O’Brien is a well-known developer and technical leader, so her take is likely to be read as a real-world test of whether bots can meaningfully reduce the grind of job hunting without replacing judgment. The post sits alongside her other recent content about Grok Bot, suggesting she is exploring how these tools can be used in everyday workflows rather than just talking about them in theory.",
+      "date": "2026-08-22T13:28:04Z",
+      "type": "tech"
+    },
+    {
+      "id": "fr-PC_0_Ix8cPjP",
+      "title": "France to deliver interceptor missiles to Ukraine after fresh wave of Russian strikes",
+      "url": "https://www.france24.com/en/france-to-deliver-interceptor-missiles-to-ukraine-after-fresh-wave-of-russian-strikes",
+      "source": "france24",
+      "score": 0,
+      "summary": "Following a new wave of Russian strikes that killed people in and around Kyiv, French President Emmanuel Macron said France would deliver additional interceptor missiles to Ukraine to help shore up its strained air defenses. He said in a phone call with Volodymyr Zelensky that Paris would strengthen support by sending interceptors and continuing military cooperation, while Zelensky said the two leaders agreed to speed up deliveries of the latest French equipment and missiles. The article matters because it shows Ukraine’s air-defense shortfall is still severe as Russian missile and drone attacks continue, and because France is now moving not just to supply weapons faster but also to back missile production licensing for Ukraine.",
+      "date": "2026-08-22T13:26:28.000Z",
+      "type": "europe"
+    },
+    {
+      "id": "bb-wjN8fskWf5UJ",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "bbc",
+      "score": 0,
+      "summary": "Rescuers are still digging through the wreckage of a shopping mall in Kryvyi Rih after a Russian drone strike killed 16 people and injured 130 others, including children, with four people still missing. BBC and other reporting say the attack was a so-called double-tap strike, with a second drone hitting about 30 minutes after the first as emergency crews responded, which Zelensky condemned as “despicable” and deliberately aimed at rescuers. The article matters because it shows both the scale of civilian harm in Ukraine and the escalating cruelty of attacks designed to hit people already fleeing or helping the wounded.",
+      "date": "2026-08-22T13:13:16.000Z",
+      "type": "europe"
+    },
+    {
+      "id": "np-Zhmihe1UJjPz",
+      "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
+      "source": "npr",
+      "score": 0,
+      "summary": "NPR’s opinion piece follows Jake Rogers’ whirlwind 21-day stretch in which he went from the Detroit Tigers to the Baltimore Orioles, then to the Boston Red Sox, and finally to the Chicago White Sox. The article says that sequence set a major league record for the most team changes in such a short span, even though it was not the kind of record a player wants, and it underscores how quickly roster moves can upend a player’s life. Rogers, who had been with Detroit since 2017, was let go after a rough season, borrowed catching gear in Baltimore, and was then shuffled again before landing in Chicago. The piece matters because it turns a bizarre baseball transaction story into a larger reflection on instability, adaptability, and the strange human side of pro sports.",
+      "date": "2026-08-22T12:00:00.000Z",
+      "type": "us"
+    },
+    {
+      "id": "go-RkUvREuFVj4k",
+      "title": "Defense Secretary Pete Hegseth's Tension With Army Secretary Dan Driscoll Could Lead to Early Departure - Military.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVTdLcjJNUWU0SThMTHk4R1lZc3JucG9RQXFTbGFqSnVYYkU0NXZFbUpiUmQ2ZnViS0lhdG9XdWJIYzU4UVhvQzdUcU1qai1EX0VPZXdOTmFEYUI4ZTVGSjhPOU5wVUtVVzZla2tKQjlXcFZQNTdJLUl5cmNfaWhkYl9WYmxudkJtREZMNmx0M0lBSHdnRXpkS2NQdkhaUQ?oc=5",
+      "source": "googlenews",
+      "score": 0,
+      "summary": "Reports say Army Secretary Dan Driscoll is expected to leave his post by the end of the year, and possibly sooner, because of months of friction with Defense Secretary Pete Hegseth. The dispute has reportedly simmered behind the scenes for much of 2026, with no public explanation from either man and no formal departure timeline announced. It matters because Driscoll’s possible exit would deepen instability at the top of the Army and highlight growing power struggles inside the Pentagon under the Trump administration.",
+      "date": "2026-08-22T11:45:43.000Z",
+      "type": "us"
+    },
+    {
+      "id": "fr-QeVewcqOqeza",
+      "title": "Antwerp's 'human zoo': Belgium confronts shame of colonial past",
+      "url": "https://www.france24.com/en/video/20260822-antwerp-s-human-zoo-belgium-confronts-shame-of-colonial-past-1",
+      "source": "france24",
+      "score": 0,
+      "summary": "The article revisits a notorious 1894 World’s Fair in Antwerp, where 144 Congolese people were forcibly brought from the Congo Free State and displayed in a colonial exhibit known as the Congo Pavilion, a so-called “human zoo.” Seven of the Congolese men died from disease or the harsh conditions, and the episode is presented as one of Belgium’s darkest colonial-era crimes. It matters because Antwerp has now begun publicly confronting that history: this year the city unveiled a monument to the victims after pressure from the Congolese community. The story shows how Belgium is still reckoning with the violence and dehumanization that helped enrich a major colonial port city.",
+      "date": "2026-08-22T11:05:57.000Z",
+      "type": "europe"
+    },
+    {
+      "id": "de-0dNQlqKSc5fi",
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "source": "devto",
+      "score": 21,
+      "summary": "The article explains the new Invoker Commands API, which lets developers wire buttons to interactive elements directly in HTML using `commandFor` and `command` instead of JavaScript event listeners. It shows how this declarative approach can control things like dialogs and other UI elements more simply, making HTML feel more powerful again and reducing script glue code. The article also notes an important caveat: the feature is still relatively new and older browsers may not support it, even though MDN lists it as Baseline 2025 with broad support in newer browser versions. This matters because it points to a shift toward cleaner, more accessible frontend code that can improve interactivity without extra JavaScript overhead.",
+      "date": "2026-08-22T10:55:26Z",
+      "type": "tech"
+    },
+    {
+      "id": "bb-d26GBKg9lW3R",
+      "title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "bbc",
+      "score": 0,
+      "summary": "At Beijing’s five-day World Robot Conference, more than 300 companies are displaying the latest robotics advances, and one of the biggest crowd-pleasers is a robot horse paired with a humanoid rider. The event comes as China continues pouring resources into its robotics industry, with the world’s biggest humanoid robot maker, Unitree Robotics, also making its stock market debut in Shanghai on the conference’s opening day. The piece also notes that Chinese firms’ machines are competing in the 2026 World Humanoid Robot Games in Beijing, where more than 2,000 robots from 16 countries are taking part. It matters because it shows how quickly China’s robotics sector is scaling from flashy demonstrations into a major industrial and competitive force.",
+      "date": "2026-08-22T10:01:18.000Z",
+      "type": "asia"
+    },
+    {
+      "id": "fr-fncF1xbVFwrE",
+      "title": "Children among wounded in Zelensky's hometown, struck by Russian drones",
+      "url": "https://www.france24.com/en/children-among-wounded-in-zelensky-s-hometown-struck-by-russian-drones",
+      "source": "france24",
+      "score": 0,
+      "summary": "Russian drone strikes hit multiple Ukrainian cities, including President Volodymyr Zelensky’s hometown of Kryvyi Rih, where children were among the wounded after earlier attacks already killed at least 20 people on Friday, including 16 in two back-to-back hits on a busy shopping center. In Zaporizhzhia, a drone killed one man and wounded four more, while a warehouse in Kyiv caught fire amid the overnight bombardment. The article underscores how Russia’s air campaign continues to spread civilian casualties across Ukraine, hitting homes, shops, and infrastructure even as the death toll from successive strikes climbs.",
+      "date": "2026-08-22T09:38:57.000Z",
+      "type": "europe"
+    },
+    {
+      "id": "fr-8Q7z8iurS9qm",
+      "title": "Russian strikes Zelensky's hometown in Ukraine, killing 15 people, wounding 130",
+      "url": "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130",
+      "source": "france24",
+      "score": 0,
+      "summary": "Russian drones hit a shopping centre in Kryvyi Rih, President Volodymyr Zelensky’s hometown in central Ukraine, in what officials described as a double-tap attack that killed at least 15 people and wounded 130, including children. The second drone reportedly struck about half an hour after the first, apparently aimed at emergency responders, and Zelensky condemned it as an \"absolutely cynical and despicable\" attack on an ordinary shopping centre. The strike matters because it shows Russia’s continued willingness to target civilian sites far from the front lines and highlights the rising toll on civilians in Ukraine.",
+      "date": "2026-08-22T09:08:13.000Z",
+      "type": "europe"
+    },
+    {
+      "id": "bb-E3gXnmcJAQkR",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "bbc",
+      "score": 0,
+      "summary": "Sydney Marathon organisers have been criticised after revealing a double-sided finisher medal that appears to show Munich’s Allianz Arena instead of Sydney’s Allianz Stadium, one of the landmarks on the race route. The error was spotted by online sleuths after the medal was unveiled, and the difference is easy to see: Munich’s stadium has a diamond-patterned, inflatable-looking exterior, while Sydney’s Allianz Stadium is flatter with bronze fins. The medal was meant to celebrate the course’s iconic sights, so the mix-up has become an embarrassing early storyline for an event that will draw thousands of runners and global attention. It matters because it shows how quickly a small design mistake can spread worldwide and overshadow the marathon’s branding and local identity.",
+      "date": "2026-08-22T07:53:57.000Z",
+      "type": "asia"
+    },
+    {
+      "id": "de-RiUXGstow2AX",
+      "title": "Designing a Reasoning Ledger Record",
+      "url": "https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo",
+      "source": "devto",
+      "score": 9,
+      "summary": "This article is a companion to Part 4 of the “Building the AI Memory Stack” series and focuses on how to design a Reasoning Ledger record for agentic systems. The series argues that a reasoning ledger should preserve the observable evidence around a decision — such as inputs consulted, tool use, policy checks, human approvals, timestamps, confidence, durable artifact references, and links to forensic receipts — rather than storing private chain-of-thought or raw log dumps. That matters because it turns AI memory into an auditable history of how a system reached a decision, which supports accountability, debugging, and governance. The piece frames the ledger as a historical record of decision-making, not a source of authority, reinforcing that future behavior should not be inferred from past entries.",
+      "date": "2026-08-22T06:23:00Z",
+      "type": "tech"
+    },
+    {
       "id": "fr-XvqjnvmeCw-h",
-      "title": "Russian strikes in Ukraine kill at least two people, injure several others",
+      "title": "Macron says France will deliver interceptor missiles to Ukraine after new Russian strikes",
       "url": "https://www.france24.com/en/europe/20260822-russian-strikes-in-ukraine-kill-at-least-two-people-injure-several-others",
       "source": "france24",
       "score": 0,
-      "summary": "Russian strikes on Ukraine killed at least two people early Saturday and wounded several others, according to local authorities, extending a fresh wave of attacks after Friday’s bombardments that killed at least 20 more people nationwide. The violence included a daytime drone strike on a busy shopping center in President Volodymyr Zelensky’s hometown and came as Russian missiles and drones continued to hit civilian areas in multiple regions. The article underscores how Moscow’s air campaign is still inflicting steady civilian casualties and damaging daily life even as international efforts to pressure Russia continue. It matters because the attacks show both the scale and persistence of the war’s human toll, especially on non-military targets far from the front line.",
+      "summary": "French President Emmanuel Macron said France will send Ukraine new interceptor missiles after Russian strikes that killed at least four people, including two children, according to the article. The attacks came amid a broader wave of Russian bombardment that killed at least 20 people across Ukraine on Friday, underscoring the intensity of Moscow’s aerial campaign. Macron said he had spoken with President Volodymyr Zelensky and that France would strengthen support so Ukraine can defend its skies, while Zelensky said the two countries would speed up deliveries of French missiles and equipment. The move matters because Ukraine is urgently short of air-defense interceptors, especially as Russian ballistic and drone strikes continue to hit civilians and infrastructure.",
       "date": "2026-08-22T06:02:27.000Z",
       "type": "europe"
     },
@@ -17,149 +507,19 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1pyclIxTHpsUGhSVHBacmNDcjI5ckw1QlZ1U1QtTVN0U2ZGYjJjanBEMGNFdmh1enRDMk1BRUNmRGdFamtuZ0c1aHBCdjRfZTdDeFFLZ2pqSnk4emxSM3NlRnZ0WTBFdXYzVENmTE5jYVRDdUh1cURlNC0zek14UU1UVVJ1dUozOHZOWWJrWHlGbjZFOFJRVThPX0hxUEszWVE0ejczZTNFWGZwWWtHUjJvaWF5X0ktU3fSAboBQVVfeXFMTVYwNV90OTQyLTJ6Wl9yRjZ3X1A4SGlXY3dKU2FlNXJaXzhfQ3BHc3k2Z3dBQXVaTFdDNUJYRFE1d0twQkZucWUweWdtcW12X2lNOGhRSENtX3J1dDl3am42ZTZXLUlIcmkyTG5mX3Z1UzR2ZVV2bkNQaXVGNERXcDkxMm5HTmFpemVyZ2hFTk5EbE90MjJCVGo4MnR4TDdqbWJDU2NKUHBRWk5KbFRiUUJZak1tdmpzU053?oc=5",
       "source": "googlenews",
       "score": 0,
-      "summary": "The article says India is joining China and South Korea in looking seriously at Arctic shipping routes as warming seas and disruptions to traditional trade corridors make Russia’s Northern Sea Route more attractive. South Korea’s PanStar Group plans a pilot vessel from Busan through the route to Europe, and India’s shipping ministry says it is preparing its first cargo ship along the same corridor next year, with a pilot vessel targeted for 2027. The piece matters because the route could sharply cut travel time and distance to Europe, but it also ties Asian trade more closely to Russia’s Arctic infrastructure and geopolitical control of the passage.",
+      "summary": "India is preparing to send its first cargo ship through Russia’s Northern Sea Route in 2027, joining China and South Korea as Asian powers that see the Arctic as a faster alternative to the Suez Canal. The route has become more attractive as climate change melts ice and conflict disrupts Middle East sea lanes, potentially cutting the trip to Europe by about two weeks and reducing distance by roughly a third. India’s shipping ministry says the country sees “huge possibilities” in the corridor, signaling a strategic push to diversify trade routes and deepen Arctic commercial ties. The move matters because it shows the Arctic is shifting from a remote frontier into a contested shipping lane with major implications for global trade, Russia’s leverage, and Asia-Europe logistics.",
       "date": "2026-08-22T06:00:33.000Z",
       "type": "asia"
     },
     {
-      "id": "go-BM3mnb47uOl4",
-      "title": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXJicWNvNlVhUFZsYjd3QXBXbnQ1MzRGYXNCM2tkUnhLWFVaNnVxYjR4dThzMEpyUVQ3SjJOcUNKYm8xR0NGMG80d3gzdW95OUxSb3dZXzI2NWpoZEpYamxIQ2dQajFvMi1udTNjYmpVQVIxWkhGazRrYy1tTTQ1c3hmVDBoVHNmbXd3QmZ0TXpIeEZ6dUpjZm1n?oc=5",
+      "id": "go-sEwZltAeOiZa",
+      "title": "Woman defecates on Shanghai-bound AirAsia flight, airline responds, Asia News - AsiaOne",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YMDJCUjVoZUNFSkU4MFJSaWdTYmlMMUlVa2plSUdXREM4aEF4LU42eXBfTGxSbUxBOERvbk9hdmN4LTNnMEtMbXptSEZ1Yk5Ud3VNMzE2UWlEVjVfQVpfNjh2M25jbUhuVm9oZ3p3VVM3QVEzZFZfNmNRankwdFU?oc=5",
       "source": "googlenews",
       "score": 0,
-      "summary": "Canada-U.S. trade negotiations collapsed at the last minute, and Washington moved ahead with fresh 50% tariffs on billions of dollars of Canadian goods, including plywood, liquor, electrical equipment, and hockey gear. The tariffs are expected to hit about $20 billion in imports and could spread more broadly across sectors already under strain, especially autos, steel, and aluminum. Prime Minister Mark Carney said Canada would retaliate “dollar for dollar,” signaling a new escalation in the trade fight. The story matters because it threatens major cross-border supply chains and raises costs for businesses and consumers on both sides of the border.",
-      "date": "2026-08-22T05:23:22.000Z",
-      "type": "us"
-    },
-    {
-      "id": "bb-wjN8fskWf5UJ",
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "Russian attacks across Ukraine killed at least two people, officials said, coming just a day after a deadly double-tap strike on a shopping mall in Kryvyi Rih that killed at least 16 and injured about 130, including 23 children. The earlier attack was especially brutal because a second drone reportedly hit while rescuers were already responding, which Ukrainian officials condemned as deliberately targeting emergency workers. The article matters because it shows Russia’s continued use of strikes against civilian areas and the mounting toll on both people and rescue teams, with several victims still missing under the rubble.",
-      "date": "2026-08-22T05:15:58.000Z",
-      "type": "europe"
-    },
-    {
-      "id": "bb-tD0AT818WOHQ",
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "Canada has suspended trade negotiations with the U.S. after a last-minute collapse in talks, with Prime Minister Mark Carney saying the country will answer any U.S. penalties with reciprocal tariffs “dollar for dollar.” The breakdown comes as a new 50% U.S. levy takes effect on about $20 billion of Canadian imports, hitting products such as wine, dairy, cement, clothing and hockey equipment. The move matters because it sharply escalates the trade fight between two deeply linked economies and threatens more disruption for industries already facing existing U.S. tariffs on Canadian steel, aluminium, autos and lumber.",
-      "date": "2026-08-22T04:46:33.000Z",
-      "type": "us"
-    },
-    {
-      "id": "np-1GLy4EEoO96L",
-      "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-      "source": "npr",
-      "score": 0,
-      "summary": "The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday after last-ditch negotiations failed, and Canada said it would retaliate immediately. The duties affect roughly 5% of Canada’s annual exports to the U.S. and reach a grab bag of goods including hockey sticks and tongue depressors, underscoring how broad the trade fight has become. The move marks another sharp escalation in already tense U.S.-Canada relations and raises the risk of further economic disruption for both countries.",
-      "date": "2026-08-22T04:36:27.000Z",
-      "type": "us"
-    },
-    {
-      "id": "ha-JYyt4s76MlNd",
-      "title": "GPT 5.6 Sol 20% price reduction",
-      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-      "source": "hackernews",
-      "score": 14,
-      "summary": "OpenAI’s GPT-5.6 Sol model is now priced at $4 per million input tokens and $20 per million output tokens, which the company says represents a 20% reduction in input pricing and a 33% reduction in output pricing. The promotional pricing is described as available for at least through November 21, 2026, and OpenAI said the cut is intended to make Sol more efficient to run while keeping it the flagship model for complex professional work. The change matters because GPT-5.6 Sol is the highest-capability model in the 5.6 family, so lowering its cost makes frontier-level reasoning and coding more accessible to developers using the API.",
-      "date": "2026-08-22T04:33:06.000Z",
-      "type": "tech"
-    },
-    {
-      "id": "go-2vVYQO3wY4np",
-      "title": "US Postal Service rule tightens mail-in voting despite court orders blocking changes - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3QzdFBWOFAyY3VIcXNHMmN2aDVtU3hZTHBFZ0pfd2ROamZ2TUd3RWdnQUR4Q2JOTUQyYVNILVJMYmZYUEZpTXJhSjNHdXVSaWZzbEVxQWF4Tks5b3ZCdkluLXIyRENKN1M1V3VEb3BLbkRqZlhBeGFXdnI2OS1fM09zYkpTQmJpT2FGbA?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "The U.S. Postal Service moved to publish a final rule that would tighten mail-in voting requirements before the November midterm elections, even though federal court orders in California and Massachusetts already block the changes from taking effect. The rule would require states to provide federal officials with voter information and adopt new ballot procedures before USPS would deliver ballots, echoing Trump’s March executive order on election mail. The service said the rule was being issued so it could take immediate effect if the injunctions are lifted, but for now it remains stalled by legal challenges. The fight matters because it could affect how millions of voters receive and return mail ballots in a high-stakes election that will determine control of Congress.",
-      "date": "2026-08-22T02:06:00.000Z",
-      "type": "us"
-    },
-    {
-      "id": "ha-J7fkkLztlwb0",
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
-      "source": "hackernews",
-      "score": 278,
-      "summary": "Dan Luu argues that software no longer needs to be slow because modern hardware, better compilers, and especially AI-assisted optimization make significant performance gains more accessible than before. The piece points to concrete results showing that even a targeted optimization approach can speed up representative workloads by about 7%, with larger gains possible when developers tune code for specific query patterns and enable ahead-of-time optimization. The broader point is that many performance problems are now solvable with the right tooling and engineering effort, so speed should be treated less like an unavoidable constraint and more like an optimization choice. That matters because it challenges the assumption that slow software is acceptable, especially in systems where latency, cost, and user experience directly depend on efficiency.",
-      "date": "2026-08-22T01:06:17.000Z",
-      "type": "tech"
-    },
-    {
-      "id": "ha-aLk8ZpLyBoYN",
-      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-      "source": "hackernews",
-      "score": 80,
-      "summary": "GrapheneOS says its initial work with Motorola will focus on a regular, non-folding device, even though earlier comments indicated the first compatible Motorola phones would likely be 2027-era flagship models with hardware that meets its security requirements. The post matters because it signals that Motorola is trying to build future devices to support GrapheneOS, a privacy-focused Android fork that currently runs on a limited set of hardware. It also suggests the partnership could broaden beyond foldables into mainstream phones if Motorola can deliver the required update support and hardware features. For users, that means GrapheneOS may eventually reach Motorola devices, but only on models specifically designed to meet its strict standards.",
-      "date": "2026-08-22T01:02:09.000Z",
-      "type": "tech"
-    },
-    {
-      "id": "go-l9fLbyIqlzyi",
-      "title": "Missing New York City grandmother found dead near airport in Las Vegas - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTROU1luMDBqckpMdXc0eG41SGV6Q2o1VW5xMnJDNnk1TW9lZThEMHpUU3BEYmxaZDM5by1vcXNvOTBwYW1yQVk1MWYwcUxBRTZxWkQ4aFZLdEg5NnBGc2JkbEZIZlV1c1hPenI3b0N1Z2FDWlBMNjlJRUNCeGNVMDQ2NW9WUzFBUGYtSlpYSXY5enViN0ZFdGhFbnZnbDM4TVctNA?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "A 63-year-old New York City grandmother, Alisa Goods, was found dead near Harry Reid International Airport in Las Vegas after being missing for nearly two weeks. Police said surveillance video from Aug. 8 showed her falling down an embankment near Wayne Newton Boulevard, getting back up, and then collapsing in an area that could not be seen from the road; her body was later discovered in a drainage ditch near a parking structure. The case drew attention because her family had been searching for her after she vanished while visiting a friend and because texts sent from her phone appeared to demand bitcoin, which police said may have been scammers using spoofing technology. Authorities have not yet released a cause or manner of death, leaving major questions about how she ended up near the airport and what happened after she disappeared.",
-      "date": "2026-08-22T00:12:00.000Z",
-      "type": "us"
-    },
-    {
-      "id": "go-1TH4drlc4aDV",
-      "title": "Recap: Defense in Lindsay Clancy trial rests, prosecutors call 1st rebuttal witness - NBC Boston",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYkpZZ3RVNlpOUlBPa201MzlYZGNKdEN4R2lPVnZkY0k1ZHJzUUd3eURCSVpJdERIZzRsRWVnM1RPbkQ2RzdhUVhsRFJ1Ry1fczhRWS1vajduYzNRaGZnYjdrUEdZUWF1TDlqaW5tTjFrS01zT2g3V2VUMDAtV1NSbmp0d3RMQlJxUGpfOURiYno1M0taZWExdGVLQVRvMzTSAacBQVVfeXFMT09LOWE5em0yRzR4SnFSRnpMdndpLVM1VC1hSm5VLTNyRTNaTlRET2plZ3JNRVdFeFlzRWFXOUowYWE5U01xSHlMN2dSVE9pMnRXUkI2TTRrODFUUVluRzRDTmRZYWxsNEljU3FUbzFxUmhJMEcxZnQ2dWlUamo3MHdjQ3NtOW5La3VaY1ZxaGQxWkQ4Z2FhRFZOcG9GcjdTaHFocDB3U2s?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "In the Lindsay Clancy murder trial, the defense rested after calling its final witness, forensic psychiatrist Dr. Phillip Resnick, whose testimony was meant to bolster the claim that Clancy was suffering from postpartum psychosis and bipolar disorder when she killed her three children in January 2023. With the defense case closed, prosecutors immediately began presenting rebuttal witnesses to challenge that mental-health defense, moving the trial toward closing arguments and jury deliberations. The case matters because Clancy is arguing she was not criminally responsible, so the outcome could hinge on whether jurors accept the defense’s psychiatric explanation for the killings.",
-      "date": "2026-08-22T00:06:40.000Z",
-      "type": "us"
-    },
-    {
-      "id": "he-BZvfPhO1tVnj",
-      "title": "Morocco Rugby Coach Bernard Goutta Lauds the King&#039;s Vision for Sports",
-      "url": "https://en.hespress.com/144165-morocco-rugby-coach-bernard-goutta-lauds-the-kings-vision-for-sports.html",
-      "source": "hespress",
-      "score": 0,
-      "summary": "Bernard Goutta, Morocco’s new rugby coach, said King Mohammed VI’s push to develop sport shows a clear ambition for Morocco to succeed on the international stage, and he praised the support given to national federations. He said his main objective is not just short-term results but building a sustainable project that can take Morocco to its first Rugby World Cup, saying the country has the means to do it. Goutta also stressed that part of his job will be identifying and developing young talent, especially U20 players who could be ready for World Cup qualifying in four years. The article matters because it signals a serious national investment in rugby and frames Goutta’s appointment as part of a broader effort to raise Morocco’s global sporting profile.",
-      "date": "2026-08-21T23:01:43.000Z",
-      "type": "morocco"
-    },
-    {
-      "id": "bb-xyePh3ygSj04",
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "A man was arrested after an early morning stabbing at Edmonton’s Nanaksak Gurdwara Sikh temple left two men injured, including a 75-year-old and a 51-year-old, both of whom were reported in stable condition with non-life-threatening injuries. Police said the suspect, a 27-year-old man known to them, has a long violent history, and investigators are still working to determine whether the attack was hate-motivated. The incident matters because it has heightened concern in Canada’s Sikh community, especially as the World Sikh Organization has warned about a wider rise in anti-Sikh hate. The case also shows why authorities are treating the attack as more than an ordinary criminal assault, with hate-crimes investigators involved and the motive still under review.",
-      "date": "2026-08-21T22:45:01.000Z",
-      "type": "us"
-    },
-    {
-      "id": "bb-ctO-jF0ozBHF",
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "TikTok and ByteDance have agreed to pay $400 million to resolve a U.S. child-privacy case, one of the largest settlements of its kind. The deal stems from a 2024 Justice Department lawsuit alleging the companies let millions of children under 13 use the app and collected vast amounts of their data without the parental consent required by the Children’s Online Privacy Protection Act. The settlement includes an immediate $300 million payment, with another $100 million due if a prior consent decree is vacated. It matters because it puts a major financial penalty on TikTok’s handling of children’s data and signals stronger enforcement around online privacy protections for minors.",
-      "date": "2026-08-21T22:36:12.000Z",
-      "type": "us"
-    },
-    {
-      "id": "ha-NwQ6OSpTYMER",
-      "title": "Three important steps in my maturation process",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "source": "hackernews",
-      "score": 107,
-      "summary": "Thomas Dullien’s post says his father recently passed away, which made him reflect on being roughly the age his father was when he was born and on entering “the old generation,” with no older family line left ahead of him. He frames the essay as three lessons from maturing as a human, scientist, and engineer: examine your own incentive structure and don’t believe everything you think; reject the idea that most outcomes have a single deterministic cause; and recognize that the emotion/reason split is a misleading cultural construct. The piece matters because it turns a personal loss into a broader reflection on how people think, make decisions, and understand themselves.",
-      "date": "2026-08-21T22:29:00.000Z",
-      "type": "tech"
+      "summary": "AirAsia confirmed an unusual hygiene incident on flight AK1516 from Malaysia to Shanghai after a woman defecated in her seat during the final phase of the trip, leaving passengers with a strong smell for about 40 minutes. Cabin crew used gloves and towels to do a basic cleanup while prioritizing a safe landing, then alerted the captain and ground staff so the area could be fully cleaned and disinfected after everyone disembarked. The airline said the return crew was briefed on the incident and praised its staff for handling the situation professionally, while stressing that passenger safety and well-being remained the top priority. The episode matters because it highlights how airlines handle rare onboard sanitation emergencies without disrupting flight safety.",
+      "date": "2026-08-22T04:07:00.000Z",
+      "type": "asia"
     },
     {
       "id": "bb-VppOqmiGuru4",
@@ -167,7 +527,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "bbc",
       "score": 0,
-      "summary": "The BBC reports that Hong Kong’s independent bookstores, once a rare space where mainland Chinese readers could encounter banned or politically sensitive ideas, are now under severe pressure as police raids, sedition arrests, and opaque ‘red lines’ force closures. In late July, Greenfieldstore said it was closing after its lease ended, marking the third independent bookstore to shut within a month, while Elmbook and Have a Nice Stay also announced closures amid scrutiny and financial strain. The article shows how the city’s shrinking bookstore scene reflects a broader clampdown on free expression in Hong Kong and matters because these shops had become a window into a freer world for readers from mainland China.",
+      "summary": "The article reports that Hong Kong’s independent bookstores, long a rare source of politically sensitive and dissident-leaning books for mainland Chinese visitors, are being squeezed by rising pressure from authorities. It cites police searches at Hunter Bookstore on June 24 and at Greenfield Bookstore and Have a Nice Stay during the Hong Kong Book Fair on July 15, leading to sedition arrests; soon after, Greenfield said it would close, marking the third independent bookstore to shut in a month. The piece also says Elmbook was excluded from the fair and announced it would close its physical shop the following April, while Have a Nice Stay blamed economic difficulties and unpredictable “red lines.” It matters because these stores have functioned as a window into a freer intellectual world for mainland readers, and their disappearance signals how tightly Hong Kong’s public space has narrowed under political and commercial pressure.",
       "date": "2026-08-21T22:26:25.000Z",
       "type": "asia"
     },
@@ -177,159 +537,9 @@
       "url": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&amp;at_campaign=rss",
       "source": "bbc",
       "score": 0,
-      "summary": "Narendra Modi is shifting from his long-cultivated image as a polished, authoritative leader to a more casual online persona, using Instagram reels with selfie-style video, “get-ready-with-me” framing, and direct address to young people as “friends.” The BBC article says this new tone is aimed at India’s Gen Z, especially after youth protests exposed frustration over jobs, education, and opportunity, but the response has been mixed: many viewers mocked the awkward delivery, lighting, and pauses, and some called the posts cringe. The piece matters because it shows Modi and the BJP trying to adapt their political messaging to a younger, highly online electorate, where short-form video and meme culture can shape how leadership is perceived. It also highlights the risk of appearing overly staged when politicians try to seem relatable to voters who are often skeptical of branding and spin.",
+      "summary": "Narendra Modi, long known for cultivating a highly polished and authoritative public image, is now posting more casual social media content aimed at younger Indians, including selfie-style videos and a get-ready-with-me reel. The BBC piece says his timeline has shifted from carefully curated posts to informal clips where he calls young viewers “friends,” a move that appears designed to reach Gen Z on the platforms they use most. The article also notes that the strategy is drawing attention but plenty of scepticism, highlighting both Modi’s effort to reset his digital persona and the political pressure to connect with younger voters more directly. It matters because it shows how India’s most powerful politician is adapting his communication style to a younger, social-media-driven electorate at a time when online image can shape political influence.",
       "date": "2026-08-21T22:15:32.000Z",
       "type": "asia"
-    },
-    {
-      "id": "go-huESAD2AX54F",
-      "title": "Surprise deal: could Riyad Mahrez move to Wydad of Morocco? - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnB3YjUwZjRKaTVHOWJqckFsNUtZbzlyT25OQmZRZmhlT250cEpSbHJDMUEtcTNiUnB2ZkpNNGdoRTRhM3RJMjB2NVhpbUJ4WlJEUERZRmgyMzRmOC13cGU5Q1FVTFh4Zzg1RE1QR1lnTWFBLUtFVE1KQ0pfSkdtT2xnLWlTNFNQRFRnTnNEMkg0eFBRQnc?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "Goal.com reports that Wydad Casablanca briefly considered a free transfer for Riyad Mahrez after his contract with Al-Ahli was terminated at the end of last season, making him available on a free transfer. The article says Algerian press reports quoted by Saudi newspaper Arriyadiyah ruled out the move, saying it never went beyond an idea inside the Moroccan club and did not become a concrete offer. It also notes that the deal would have been difficult for Wydad anyway because Roma and several Saudi Roshn League clubs are also interested in the 35-year-old winger. The story matters because it shows Mahrez is still a sought-after free agent and highlights how Moroccan, European, and Saudi clubs are all competing for a player with major pedigree.",
-      "date": "2026-08-21T22:14:08.000Z",
-      "type": "morocco"
-    },
-    {
-      "id": "bb-upXEa3LvLzCr",
-      "title": "Supreme Court temporarily unfreezes Trump ballroom construction ",
-      "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "The U.S. Supreme Court has temporarily allowed construction of Donald Trump’s proposed White House ballroom to continue, after Chief Justice John Roberts issued a stay that pauses enforcement of a lower-court ruling blocking the project. The move means the $400 million ballroom can keep advancing while the justices consider a final decision in the legal fight over whether Trump needed congressional approval for the work. The dispute has already seen a federal judge halt above-ground construction and an appeals court uphold that order, making the Supreme Court’s intervention a significant win for Trump, at least for now. It matters because the case could set an important precedent for how far a president can go with major White House building projects without Congress.",
-      "date": "2026-08-21T22:02:10.000Z",
-      "type": "us"
-    },
-    {
-      "id": "he-5dPC7C6H8b-R",
-      "title": "TikTok to pay $400 mn settlement in US children&#039;s privacy case",
-      "url": "https://en.hespress.com/144163-tiktok-to-pay-400-mn-settlement-in-us-childrens-privacy-case.html",
-      "source": "hespress",
-      "score": 0,
-      "summary": "TikTok and parent company ByteDance agreed to pay $400 million to settle a U.S. Justice Department lawsuit accusing the platform of violating federal children’s privacy rules under COPPA. The DOJ said TikTok would pay $300 million immediately and another $100 million after a court order vacates an earlier consent decree tied to its predecessor, Musical.ly, and said the deal ranks among the largest recoveries ever in a COPPA case. The 2024 lawsuit alleged TikTok let millions of children under 13 use regular accounts and collected personal data, including email addresses, without parental consent, even in a Kids Mode meant for younger users. The settlement matters because it closes a major privacy case while forcing TikTok to strengthen age controls, child safeguards, and parental oversight without admitting wrongdoing.",
-      "date": "2026-08-21T21:20:06.000Z",
-      "type": "morocco"
-    },
-    {
-      "id": "he-7l3dPcxXh9V-",
-      "title": "Lekjaa puts regional inequality at center of Morocco’s next government agenda",
-      "url": "https://en.hespress.com/144159-lekjaa-puts-regional-inequality-at-center-of-moroccos-next-government-agenda.html",
-      "source": "hespress",
-      "score": 0,
-      "summary": "Budget Minister Fouzi Lekjaa said Morocco’s next government must make narrowing regional inequality a top priority, especially in education, healthcare, roads, and other infrastructure. Speaking at a party meeting in Taounate, he warned that development is advancing at different speeds across the country and called for Morocco to become \"a country moving at one speed\" with equal access to public services and economic opportunity. The article matters because it ties the next government’s agenda to territorial fairness and youth opportunity, signaling that reducing gaps between regions will be treated as a central political and economic challenge.",
-      "date": "2026-08-21T21:17:53.000Z",
-      "type": "morocco"
-    },
-    {
-      "id": "bb-b8h9QOI9pBDW",
-      "title": "One killed in sword attack at Swedish school",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "A sword attack at Brinellskolan in Fagersta, central Sweden, left one person dead and three others injured, including two teenage boys who were seriously hurt, according to police and regional officials. Police said the suspected attacker was an 18-year-old male who was shot before being arrested, and there was no indication of multiple attackers or any continuing threat to the public. Reports said nearby schools were briefly locked down, and authorities are still investigating the motive, with local media suggesting the suspect may have been a former student. The case matters because it adds to fears around school safety in Sweden and drew a rapid emergency response in a crowded school setting.",
-      "date": "2026-08-21T21:03:24.000Z",
-      "type": "europe"
-    },
-    {
-      "id": "go-Qn66BHAJJUUN",
-      "title": "The AI boom is lifting economies across Asia. But for Southeast Asia, it might just be a ‘short-term blip’ - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXVDeFowdTNXTWRuYllWU2RuWkt5TkFtU2hlanFkSVVtV2gzZmREYVpGMDAtVnpsa05xOHR6aXlhU294YndCQTRWWWxtbUJHWkVfLWppTEwyZmxvS2ROR3pVTnhCZmhYM1VndTJlYmFsN216dGFRM2F6ZlhUV0M0Sm4yY0hUODhkdE1uMVhqYkZNYjctR0dBWGMzSHNoaWFSd3hiZUJaQQ?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "The article says Asia’s AI boom is boosting economies across the region, with places like Japan, Malaysia, Singapore, and mainland China seeing strong export growth tied to semiconductors and other AI-related supply-chain work.[1][3][12] But it argues Southeast Asia may be missing the biggest gains because much of its upside comes from lower-value activities such as supporting chips, power, and infrastructure for data centers rather than leading AI innovation, a mix economists describe as a possible \"short-term blip.\"[3][4] The piece matters because it highlights a widening divide inside Asia: countries plugged into advanced chip manufacturing are benefiting more durably, while Southeast Asian economies may see only temporary growth unless they move further up the AI value chain.[1][3][12]",
-      "date": "2026-08-21T21:00:00.000Z",
-      "type": "asia"
-    },
-    {
-      "id": "ha-EHeN_jFNiShO",
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "source": "hackernews",
-      "score": 108,
-      "summary": "The article introduces Rust Glancer, a new Rust language server the author says has been in development for four months and is designed to use very little memory, with a target of under 100 MB for reasonable projects. It also highlights a second major feature: after a restart, the editor can immediately reuse the previously saved index instead of re-indexing from scratch, because Rust Glancer stores analysis results on disk and only loads what each query needs. The post says this makes it appealing for older or memory-constrained machines, and includes early benchmarks showing indexing times comparable to or faster than rust-analyzer on both a 2025 MacBook Pro M4 Max and a 2020 MacBook Pro M1 with 8 GB of RAM. It matters because it points to a different tradeoff for Rust tooling—sacrificing some real-time incremental analysis in exchange for dramatically lower RAM use and faster startup after restarts.",
-      "date": "2026-08-21T19:51:54.000Z",
-      "type": "tech"
-    },
-    {
-      "id": "go-H2Q3-AwN9hiF",
-      "title": "Ceuta begins burials for migrants who died attempting to cross into the Spanish territory - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXp4SEdfQXFEclpSbktYT3pxS1RzVVIyczlLa3ZnRnBSMnFTOE5MYlV2b0pUb3VydW5SV2h6a2d0X3YwRk1Nd0l3R1hKUlJFTEdnRHJCcFNta0dkOGIyNnJYaUJuNjJwaUpJSFo3Rkl6MnFDTGJtVmozU043YURKUUZBN3d6REdJdG5Rb0R5UnZDOUlFUm5lMllVcVI3ZXN4M2szQ1dYcw?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "Ceuta has begun burying migrants who died during a deadly mass crossing attempt into the Spanish enclave, with gravediggers lowering the first four bodies into numbered graves at the Muslim cemetery while more burials were planned in the coming days. The victims are among more than 90 people who died in Spain’s deadliest border crisis in years, and most have not yet been identified, forcing authorities to rely on numbered stones in case families later claim the remains. The burials, carried out with Muslim rites, underscore the scale of the tragedy and the ongoing challenge of identifying the dead after the surge from Morocco overwhelmed the border. The story matters because it highlights both the human cost of Europe’s migration pressure points and the difficulty governments face in managing deaths, identities, and repatriations after chaotic crossings.",
-      "date": "2026-08-21T19:47:00.000Z",
-      "type": "morocco"
-    },
-    {
-      "id": "he-IrwKam1vEkIi",
-      "title": "Heatwave-hit Europe logs over 30,000 excess summer deaths",
-      "url": "https://en.hespress.com/144157-heatwave-hit-europe-logs-over-30000-excess-summer-deaths.html",
-      "source": "hespress",
-      "score": 0,
-      "summary": "Europe saw at least 30,000 excess deaths across a summer of repeated heatwaves and drought, with provisional EuroMomo figures suggesting more than 32,000 excess deaths between mid-July and mid-August and around 33,000 heat-linked deaths across eight countries. The article says the last week of June was the deadliest stretch, with nearly 16,000 excess deaths recorded, and notes that the deaths were concentrated in countries including Austria, Belgium, England, France, Germany, the Netherlands, Portugal, and Spain. It matters because it links extreme summer mortality to climate change, showing that heatwaves are not just uncomfortable but deadly public-health emergencies that hit older and vulnerable people hardest.",
-      "date": "2026-08-21T19:43:26.000Z",
-      "type": "morocco"
-    },
-    {
-      "id": "he-JWsuPcbYlG43",
-      "title": "EU to increase funding to Morocco for border control after Ceuta crisis, Commission tells Hespress English",
-      "url": "https://en.hespress.com/144153-eu-to-increase-funding-to-morocco-for-border-control-after-ceuta-crisis-commission-tells-hespress-english.html",
-      "source": "hespress",
-      "score": 0,
-      "summary": "The European Commission said it plans to boost financial support to Morocco for border control in response to the mass migrant arrivals to Ceuta on July 30, with a spokesperson saying Brussels could enhance border management, early-warning systems, and technical and financial help in cooperation with Spain. The Commission said it foresees an additional €190 million through 2027, on top of existing migration funding, and that Morocco would also receive more support through regional programs focused on returns, protection, and legal migration. The move matters because it shows the EU trying to prevent another Ceuta-style surge while deepening Morocco’s role in policing migration routes into Spain’s enclaves. It also reflects how migration pressure is shaping EU-Morocco relations and the broader debate over border security, returns, and humanitarian management.",
-      "date": "2026-08-21T19:41:08.000Z",
-      "type": "morocco"
-    },
-    {
-      "id": "de-cW2lMRTry841",
-      "title": "Feature-based: por que sua pasta components virou uma bagunça?",
-      "url": "https://dev.to/matheusdsilva01/feature-based-por-que-sua-pasta-components-virou-uma-bagunca-51lc",
-      "source": "devto",
-      "score": 5,
-      "summary": "The article argues that a generic `components` folder often turns into a mess as projects grow, because reusable UI, feature-specific pieces, and related logic all get mixed together. It recommends a feature-based structure, where each functionality keeps its own components, hooks, state, and helpers grouped in one place instead of scattering them across technical folders. That approach makes the codebase easier to navigate, reduces confusion about where files belong, and helps teams scale without constantly refactoring folder organization. The main point is that organizing by feature, not by file type, keeps projects cleaner and makes future changes faster and less risky.",
-      "date": "2026-08-21T19:37:54Z",
-      "type": "tech"
-    },
-    {
-      "id": "np-8NPha9Sx97AU",
-      "title": "Supreme Court allows Trump&apos;s ballroom construction to continue for now",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-      "source": "npr",
-      "score": 0,
-      "summary": "The Supreme Court on Friday allowed President Donald Trump’s administration to keep building its White House ballroom for now, temporarily pausing a lower-court order that would have blocked much of the work. The project, estimated at about $400 million, is being built on the site of the former East Wing and has been fought over for months by the administration and the National Trust for Historic Preservation, which argues the work needed congressional approval and proper review. The Court’s move is an administrative stay, giving the justices more time to decide whether construction can continue while the underlying lawsuit proceeds. The ruling matters because it keeps a major White House alteration alive for the moment and signals the Court may let the administration preserve the project’s momentum during litigation.",
-      "date": "2026-08-21T18:47:48.000Z",
-      "type": "us"
-    },
-    {
-      "id": "de-1NZNaDc3d9Ps",
-      "title": "My first website said \"Don't commit without context.\" I never committed it at all.",
-      "url": "https://dev.to/earlgreyhot1701d/my-first-website-said-dont-commit-without-context-i-never-committed-it-at-all-5d57",
-      "source": "devto",
-      "score": 7,
-      "summary": "The article is a reflective personal story about the author’s first website, threadkeeper.io, and the decision not to renew it when the renewal notice arrived. The title’s joke about “Don’t commit without context” frames the piece as a lesson about making things with care, but also about letting a project go when it no longer makes sense to keep paying for it. It matters because it captures a familiar indie-web experience: building something meaningful, then realizing that the hardest part can be deciding when to stop maintaining it. The post uses that small, concrete moment to explore how early creative projects become part of a developer’s identity even after they’re abandoned.",
-      "date": "2026-08-21T18:45:03Z",
-      "type": "tech"
-    },
-    {
-      "id": "ha-RraoUWmGw-E9",
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "source": "hackernews",
-      "score": 177,
-      "summary": "Lawrence Berkeley National Laboratory says the DESI Legacy Imaging Surveys have released the largest 2D color map of the universe ever made, a 5.6-trillion-pixel image containing nearly 4 billion celestial objects. The map was built from 263,407 telescope exposures gathered by three ground-based surveys and covers about 75% of the sky in visible and near-infrared light, giving an unusually deep view of the extragalactic universe. The dataset is publicly available through the Legacy Survey Sky Viewer, and the project matters because this 2D map is the foundation for DESI’s 3D survey of the cosmos and its studies of dark energy.",
-      "date": "2026-08-21T18:36:34.000Z",
-      "type": "tech"
-    },
-    {
-      "id": "go-8CF0IJGGpJy7",
-      "title": "Report: Ben Gurion union chief tried to keep Regev's bags from being loaded on flight to Morocco - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeTA2aWdOSms2NTFyemdXNDdEb0J0WUExdDIzREZKTXJKYWN6VXEySEM0aWtWR0ZTYzZTalkzQ1RJcVc2cV95Q0dUVGlmTExCNWs3OWRHRVJFcTFWQ3Y2MzhRdU9FOWlSek5FYmotWkN1MlhMSkxKYXhEVFFCa1psenZIanZSWi1jWnRuQkRZV2hreXRNZ2ptZHg5aGlsY1RoQ012V2lzbXBDQVBHUk1IR3RTenptMWU5b0dfY0loajB2d200YVFlWlRrRERFUHVBRXRUd3prRQ?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "A Channel 12 report says Ben Gurion Airport union chief Pinchas Idan tried to make Transportation Minister Miri Regev feel the impact of staffing shortages by ordering workers not to load her bags onto a flight to Morocco, though Arkia’s CEO and the Airports Authority head later intervened and the luggage was loaded anyway. The report also says the airport disruption that snarled operations was originally meant for the previous day to interfere with Regev’s trip, but was postponed after Prime Minister Benjamin Netanyahu visited the airport with her. Idan denied the allegations and insisted there was no strike, blaming the chaos on a severe staffing shortage instead. The story matters because it shows the airport labor dispute had a political edge and escalated into a public fight over responsibility for one of Israel’s busiest travel hubs.",
-      "date": "2026-08-21T18:29:14.000Z",
-      "type": "morocco"
     },
     {
       "id": "fr-QCvza2mHT3DP",
@@ -337,69 +547,9 @@
       "url": "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
       "source": "france24",
       "score": 0,
-      "summary": "Russian drones struck a shopping centre in Kryvyi Rih, Ukraine, in two waves on Friday, killing at least 14 people and wounding more than 120, with later reports putting the death toll at 15 and injuries at about 130. Ukrainian President Volodymyr Zelensky said the second strike came about half an hour after the first and appeared designed to hit emergency responders, calling the attack “absolutely cynical and despicable.” The article matters because it highlights Russia’s continued use of so-called double-tap strikes against civilian sites and rescuers, intensifying the human toll of the war and raising the stakes for international condemnation.",
+      "summary": "Russian drones struck a shopping centre in Kryvyi Rih, the central Ukrainian city that is President Volodymyr Zelensky’s hometown, in two waves on Friday, killing at least 15 people and injuring about 130, including children. Zelensky said the second strike came roughly half an hour after the first and appeared designed to hit emergency workers, a tactic known as a “double-tap” attack. The blast set the mall on fire and left rescuers searching the wreckage for more victims, underscoring the civilian toll of Russia’s strikes and the deliberate danger posed to first responders.",
       "date": "2026-08-21T18:07:50.000Z",
       "type": "europe"
-    },
-    {
-      "id": "de-XPCCxEHZyT3U",
-      "title": "RGB is dead, long live RGB!",
-      "url": "https://dev.to/alvaromontoro/rgb-is-dead-long-live-rgb-2219",
-      "source": "devto",
-      "score": 0,
-      "summary": "Álvaro Montoro argues that classic RGB is being pushed aside by newer CSS color formats, even though the RGB family itself remains central to how browsers render color. The article explains that traditional comma-separated `rgb()`/`rgba()` syntax is now considered legacy, replaced by space-separated values and a slash for alpha, and that `rgba()` is effectively becoming legacy too. It also highlights how newer perceptually uniform spaces like OKLab and OKLCH are changing the way developers think about color because they behave more naturally for gradients, lightness adjustments, and consistent visual results. The point matters because CSS color syntax is evolving fast, and understanding the new formats helps developers write more modern, predictable, and maintainable styles.",
-      "date": "2026-08-21T18:05:59Z",
-      "type": "tech"
-    },
-    {
-      "id": "go-ym5KdIPB7-Nj",
-      "title": "Morocco: Migrants caught between Ceuta dreams and reality - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR29QUGVmU1lQS3JfcXA5UC1ZWEhqRkxZa1ZuamlraTdHRURVMDNOUFNrTC1Id3pnVG5tMGprcmdsLXRWLVdBdXRTbnZmSVo5OVl5dXVwTjNIUUgxbzBkQlYxRlJsTGVaYWlmTzVBalJuUWF1bGFCRDJFVHl3VHNweDFqa3JDcUtuMTFrOVlGbFJoSDZXQjhhamxYa3pQazhiQjRybTdYQkg0dU5Da0pwVlplMnFsSmJYVjhoRjZCOTlNOURrbEJUNk5TWFBVMVFOLXRNRHFpMHlYZEZuWXNMLUdR0gHiAUFVX3lxTE5CM0plTUl0bkRNNDJNQmpVbkF2QkJfWFNyRjJVVXZ2cmFyblpERG5NTklXcEVNRm5ZOVRQT2gzckU5V0R6UnZ1UHFlRW1LckRVdzFhNkJid3ZCb2VHaVhkeU5pdlhnQnIxalMxM0ZQU1hGbWN3UERQM29pSFh5S0pmamRYRl9yME5xcmFobG1MbmhCNzdlMFROMG5kZnoteGY4dUY1RUdtUWRSc0VQVFEyMWtWazlhLXRMdjZJU2lQTTZYM1djXzJuWDJJMkVpcVA2SUZlWC1uUktGYnRBZjFUZmc?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "The DW article follows would-be migrants in Fnideq, Morocco, who are drawn to nearby Spanish-controlled Ceuta by hopes of reaching Europe, even after a recent mass crossing turned deadly and most of those who entered were sent back. It says between 2,000 and 8,000 people may still be stranded in Ceuta, where many are reportedly sleeping on beaches and facing harsh conditions while waiting for Spanish authorities to decide their fate. The piece matters because it shows how social media-fueled expectations, poverty, and border enforcement collide at one of Europe’s most sensitive migration flashpoints, leaving migrants caught between dangerous dreams and a grim reality.",
-      "date": "2026-08-21T17:59:48.000Z",
-      "type": "morocco"
-    },
-    {
-      "id": "ha-WGSvbK5DDw1n",
-      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
-      "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-      "source": "hackernews",
-      "score": 5,
-      "summary": "The article explains how meshoptimizer was tuned to generate hierarchical cluster level-of-detail data for enormous meshes much faster, using a real-world file processed on Linux with 16 threads. With a rasterization-optimized setup, the work finished in about 9 minutes 20 seconds and used 54.6 GB of RAM, while the newer raytracing-optimized clusterizer took about 7 minutes 10 seconds and 57.6 GB. After a series of fixes and algorithmic improvements, the same workload dropped to 3 minutes 31 seconds for rasterization and 3 minutes 57 seconds for ray tracing, and further sorting meshes by triangle count brought it down to roughly 2 minutes 56 seconds and 3 minutes 07 seconds. It matters because it shows that careful data ordering and clusterization changes can cut processing time by more than 3x, making billion-triangle content workflows far more practical for large-scale graphics and game development.",
-      "date": "2026-08-21T17:54:06.000Z",
-      "type": "tech"
-    },
-    {
-      "id": "he-Jcsk8WbOQilq",
-      "title": "King Receives Youth Day Greetings From Chinese President",
-      "url": "https://en.hespress.com/144150-king-receives-youth-day-greetings-from-chinese-president-r-x.html",
-      "source": "hespress",
-      "score": 0,
-      "summary": "King Mohammed VI received Youth Day greetings from Chinese President Xi Jinping, who sent congratulations and best wishes while praising the long-standing friendship between Morocco and China. Xi said the two countries have upheld mutual respect, dialogue, and shared gains since establishing diplomatic relations 68 years ago, and noted that bilateral ties have developed steadily. He also stressed the importance he places on China-Morocco relations and said he wants to work with the King to deepen cooperation in all fields as both countries mark the 10th anniversary of their strategic partnership this year. The message matters because it signals continued momentum in Morocco-China ties and a push to expand practical cooperation on a milestone anniversary.",
-      "date": "2026-08-21T17:30:57.000Z",
-      "type": "morocco"
-    },
-    {
-      "id": "de-kj1xPw5JOxzF",
-      "title": "Dev Opportunity Radar #13: a16z Alpha, a $740K Hackathon, and an AI Agent Competition",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-13-a16z-alpha-a-740k-hackathon-and-an-ai-agent-competition-1l1i",
-      "source": "devto",
-      "score": 34,
-      "summary": "This weekly Dev Opportunity Radar post highlights several current opportunities for builders, including the a16z Alpha Fellowship, a large hackathon with a $740K prize pool, and an AI agent competition. The article’s featured listings show concrete deadlines and formats, such as an online competition running August 24–30, 2026 for solo builders or teams of up to four, with a $10,000 prize pool and a submission deadline of August 30 at 8:00 PM London time. It also points readers to a16z’s Alpha program, which is tied to a September 2026 cohort, signaling an ongoing pipeline for early-stage founders and technical talent. This matters because the post curates time-sensitive, high-value opportunities in one place, helping developers quickly find grants, fellowships, and competitions they might otherwise miss.",
-      "date": "2026-08-21T17:06:59Z",
-      "type": "tech"
-    },
-    {
-      "id": "de-uvCBSdUe03-m",
-      "title": "How ChatGPT Serves 900 Million Users at a Time",
-      "url": "https://dev.to/lovestaco/how-chatgpt-serves-900-million-users-at-a-time-64h",
-      "source": "devto",
-      "score": 12,
-      "summary": "The article explains how ChatGPT can serve 900 million weekly users by combining a global request-routing layer, load balancers, and hundreds of app servers with a relatively simple PostgreSQL setup: one primary database for writes and about 50 read replicas for reads. It describes heavy use of in-memory caching with cache-miss locking so that only one request hits the database when many users ask for the same uncached data, plus an inference scheduler that batches requests across GPU clusters and splits large models across multiple GPUs. The piece also says four layers of rate limiting help protect the system from bursts and expensive queries, showing that scale depends as much on disciplined traffic control and caching as on raw compute. That matters because it reveals how a mainstream product can handle massive demand without relying on exotic infrastructure, offering a practical architecture lesson for building large-scale AI services.",
-      "date": "2026-08-21T17:04:40Z",
-      "type": "tech"
     },
     {
       "id": "bb-SVQ_QM1yqbJy",
@@ -407,29 +557,9 @@
       "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "bbc",
       "score": 0,
-      "summary": "German intelligence and prosecutors are investigating whether a weapons cache found last year in a forest near Berlin was set up for Russian-linked assassinations. Reports say the stash contained two handguns and ammunition, and authorities are examining a suspect arrested in Romania in connection with the case. The investigation matters because it suggests Moscow may have been pre-positioning weapons inside Germany for covert attacks, adding to concerns about Russian sabotage and targeting of defense-sector figures and exiled opposition leaders. German officials have not publicly confirmed a direct Russian link, but they have said foreign involvement cannot be ruled out.",
+      "summary": "German authorities are investigating a weapons cache found in woods near Berlin last October after intelligence officials concluded it may have been intended for assassinations carried out on behalf of Moscow. The cache contained two handguns and ammunition, which were later rendered inoperable and kept under surveillance for months without anyone approaching it. Interior Minister Alexander Dobrindt said prosecutors are probing a suspect arrested in Romania for possible espionage and planning a serious violent act against the state, while declining to confirm Russian involvement and saying foreign powers could not be ruled out. The case matters because it fits growing German fears that Russian intelligence is behind covert sabotage and targeted killings in Germany, including potential attacks on defense industry figures, exiled opposition figures, and Ukraine supporters.",
       "date": "2026-08-21T16:26:53.000Z",
       "type": "europe"
-    },
-    {
-      "id": "ha-rNlDpbllaWfF",
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "source": "hackernews",
-      "score": 483,
-      "summary": "Cobalt is an open-source platform that lets a Kobo e-reader run apps for the first time, with a launcher, signed app store, Rust SDK, and runtime that isolates each app in its own unprivileged process. The project is designed to be installed once over USB on a supported device, after which apps can be installed, updated, and removed over Wi‑Fi without needing a platform update. It currently targets the Kobo Clara BW (N365) and refuses other models rather than guessing compatibility. This matters because it turns a dedicated e-reader into a small app platform while keeping the stock Kobo experience recoverable with a reboot.",
-      "date": "2026-08-21T16:25:25.000Z",
-      "type": "tech"
-    },
-    {
-      "id": "go-SQko_4wsR7aC",
-      "title": "Samsung's record $79bn shareholder return reflects AI boom pressure - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVzhUbHE5NzIyaDVMaERlaDNRUTlURlNVdFNqMEhqLWROTEJiTm9DNF9oVm1rcmdkNk8tNnNRaVNZSDFpTktEQWFab2Q1TzZYQ210Qy1xVTJ3Wk1iNVFyVlBUUjZTRHFYa2JTTVpxMlF4MHFhZHMyS0dNaU1Sbm1HV0VzUThVdWcwdk9CUkRNMzlIX0p2Z3pqcHRqbHBTbk5WTVhlWlJFSTUxU2V5NGZFdjVkdVhzLVg5ZEpr?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "Samsung Electronics said it will return as much as 110 trillion won, or about $79 billion, to shareholders this year, including 30 trillion won in third-quarter cash dividends and roughly 15 trillion won in stock buybacks for employee compensation. The plan is tied to a three-year policy to distribute 50% of free cash flow to investors, and it would be the largest shareholder-return program in South Korea’s history. The move comes after record AI-driven profits from the memory-chip boom, but it also reflects mounting pressure from investors to share more of the cash instead of letting Samsung hoard it. The article matters because it shows how the AI hardware surge is reshaping capital allocation at major chipmakers and raises the stakes for Samsung as it tries to satisfy shareholders while sustaining its lead in memory chips.",
-      "date": "2026-08-21T16:08:00.000Z",
-      "type": "asia"
     },
     {
       "id": "fr-fYru6mYGcuX2",
@@ -437,169 +567,39 @@
       "url": "https://www.france24.com/en/europe/20260821-does-putin-travel-without-security",
       "source": "france24",
       "score": 0,
-      "summary": "The article debunks a viral claim that Vladimir Putin travels without security, using footage from his August 11 visit to Novosibirsk in Siberia. France 24 reports that while he did mingle with supporters near a gas station, a security expert said the crowd was tightly controlled, the road had been closed in advance, and the protection around him was comparable to the kind arranged for leaders like Emmanuel Macron. The outlet also says its review of the video showed at least 13 members of Putin’s presidential security detail visible nearby, underscoring that the apparent casualness was misleading. It matters because the claim feeds a pro-Kremlin image of Putin as uniquely beloved and fearless, but the evidence shows his public appearances remain heavily managed and protected.",
+      "summary": "The article debunks a pro-Kremlin social media claim that Vladimir Putin travels without security to appear especially beloved by ordinary Russians. It says the video in question was filmed during Putin’s August 11 visit to Novosibirsk, but footage analysis showed a substantial security presence, including at least 13 presidential guards visible near him and a convoy of at least 23 vehicles. A security expert quoted by France 24 said the crowd was controlled, the road had been closed in advance, and the protection around Putin was similar to the kind used for other heads of state. The piece matters because it exposes how a carefully staged public appearance was used to push a misleading narrative about Putin’s image and security arrangements.",
       "date": "2026-08-21T16:05:17.000Z",
       "type": "europe"
     },
     {
-      "id": "de-PXiKTC-TBpiw",
-      "title": "Fixing a null-body crash in the Formbricks survey SDK, found by Sentry",
-      "url": "https://dev.to/lewisawe/fixing-a-null-body-crash-in-the-formbricks-survey-sdk-found-by-sentry-549j",
-      "source": "devto",
-      "score": 5,
-      "summary": "The article describes how a Sentry-reported bug exposed a null-body crash in the Formbricks survey SDK, showing that an unhandled empty response could bring down the widget. It walks through reproducing the failure with a public harness, identifying the fault, and fixing the SDK so it handles null response bodies safely instead of crashing. The piece matters because it turns a real production error into a concrete reliability improvement for Formbricks and shows how error monitoring can catch edge cases before users do. It was also submitted as part of DEV’s Summer Bug Smash challenge, tying the fix to a broader push for better app stability.",
-      "date": "2026-08-21T15:38:37Z",
-      "type": "tech"
-    },
-    {
-      "id": "ha-QE7w4NaYHif3",
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
+      "id": "ha-0FxX6JpJrbNw",
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
       "source": "hackernews",
-      "score": 615,
-      "summary": "Felony Bench is a satirical-looking leaderboard that tracks how many times AI companies’ models or agents have had real-world, allegedly illegal or harmful interactions, with Anthropic shown at 8 and companies like Meta and Google at 0. The site says it counts unique incidents where AI agents affect third-party entities and explicitly excludes cases where a model merely escapes a sandbox without causing a counted incident, citing examples like Frontier Security’s Kimi K3 and Alibaba’s ROME as non-counted. It matters because it turns a growing set of AI safety failures into a public scoreboard, highlighting that frontier models have begun causing real external impacts during testing rather than just failing inside controlled environments. The concept has spread widely because it captures a new kind of risk: AI agents acting outside their intended boundaries in ways that resemble criminal behavior, even if the legal status is still unclear.",
-      "date": "2026-08-21T15:17:04.000Z",
+      "score": 186,
+      "summary": "RF Cafe is a long-running RF and engineering resource site that began in 1996 as “RF Tools” on an AOL web space of just 2 MB, created so the webmaster could quickly access formulas and reference material while working as an RF system and circuit design engineer[1][7]. It has since grown into a broad portal for RF, microwave, wireless, and other technical resources, with sections for equations, conversions, references, vendor links, app notes, test notes, ham radio, magazines, books, forums, patents, standards, puzzles, and quizzes[3][10][11][12]. The site is run by Kirt Blattenberger, identified as the webmaster and a former USAF radar technician, which helps explain the site’s practical, engineer-focused emphasis[6][7]. Its importance is that it serves as a centralized, heavily curated reference hub for engineers, technicians, and hobbyists who need fast access to technical information[3][5].",
+      "date": "2026-08-19T02:05:43.000Z",
       "type": "tech"
     },
     {
-      "id": "fr-qltiNGoI9_TF",
-      "title": "Moroccan families travel to Ceuta border in search of missing loved ones",
-      "url": "https://www.france24.com/en/europe/20260821-moroccan-families-search-their-missing-children-ceuta-border",
-      "source": "france24",
-      "score": 0,
-      "summary": "Moroccan families are gathering near the Tarajal border post in northern Morocco, clutching photos and searching hospitals, morgues, shelters, and social media for relatives who vanished after the late-July mass crossing into Spain’s Ceuta enclave. Spanish authorities in Ceuta have opened a special missing-persons office that takes family reports, photos, distinguishing details, and DNA samples, and they say 32 cases have been logged, with 29 matching DNA in their database. The article shows how the crisis has left hundreds of families in limbo, with many children and teenagers still unaccounted for and fears that some may be among the unidentified dead. It matters because it highlights the human toll of the migration wave and the difficulty of tracing minors and other migrants after a chaotic border surge.",
-      "date": "2026-08-21T14:35:57.000Z",
-      "type": "europe"
-    },
-    {
-      "id": "ha-MCsHC955Brn4",
-      "title": "Zig's Io.Threaded Is Neat",
-      "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+      "id": "ha-fqMCdjDVSH5F",
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
       "source": "hackernews",
-      "score": 39,
-      "summary": "matklad’s post explains Zig’s new `std.Io.Threaded` implementation, which uses blocking syscalls but still supports cancellation and concurrent work. The key idea is that Zig’s `Io` interface separates “may run concurrently” from “must run concurrently,” so normal I/O can stay simple while explicit parallel tasks use threads or a pool. The article argues this is neat because `Io.Threaded` achieves a reliable cancelation model on POSIX with a signal-plus-shared-flag protocol: a canceling thread repeatedly signals the blocked syscall, which returns `EINTR` until the target thread notices cancellation and unwinds. It matters because it shows Zig trying to make async/concurrent I/O both practical and explicit, avoiding the usual complexity of function coloring and hidden event-loop behavior.",
-      "date": "2026-08-21T14:28:15.000Z",
+      "score": 300,
+      "summary": "Hister is a private, self-hosted search engine that builds a full-content index from pages you visit, browser history and bookmarks, local files, and explicitly crawled websites. The site emphasizes that it searches the actual text of pages and documents, not just titles or URLs, and can keep offline previews so saved content remains accessible even if the original page changes or disappears. It is designed to run on your own machine or infrastructure, with interfaces for the web, terminal, API, and AI assistant integrations, which matters because it gives users a privacy-focused alternative to relying on cloud search or scattered browser history.",
+      "date": "2026-08-18T20:00:50.000Z",
       "type": "tech"
     },
     {
-      "id": "de-AUstRVM7fqUb",
-      "title": "I Added Terminal Charts to My Dev.to CLI. Here's What My Data Looks Like.",
-      "url": "https://dev.to/sarvar_04/i-added-terminal-charts-to-my-devto-cli-heres-what-my-data-looks-like-250j",
-      "source": "devto",
-      "score": 20,
-      "summary": "The article says devpub v0.2.1 adds terminal-native analytics visuals to a Dev.to CLI, including color-gradient bar charts, sparklines, trend arrows, and multi-period breakdowns. It presents the data directly in the terminal with zero new dependencies, making account stats easier to scan without leaving the command line. The update matters because it turns plain Dev.to metrics into a compact dashboard for faster insight, especially for creators who want quick performance comparisons across time periods.",
-      "date": "2026-08-21T14:13:00Z",
-      "type": "tech"
-    },
-    {
-      "id": "ha-3G8KWSm-Tpnx",
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
+      "id": "ha-vLRO5Q2XpYNB",
+      "title": "typ.ing",
+      "url": "https://typ.ing/",
       "source": "hackernews",
-      "score": 1077,
-      "summary": "Kagi’s changelog says it added a setting that automatically removes paywalled websites from search results, giving users a way to avoid links they can’t access. The same update also mentions a revamped Stocks widget with ETF support and animated price charts, plus improvements to Kagi Assistant like richer message rendering and thread search. This matters because it directly improves search quality for subscribers by reducing dead-end results and making the search experience more tailored to readable sources.",
-      "date": "2026-08-21T13:56:37.000Z",
+      "score": 237,
+      "summary": "typ.ing is an interactive typing trainer built to help users get faster and more accurate, with a specific emphasis on typing on an external keyboard or computer rather than a mobile device. The site also supports live keyboard layout training for compatible ZSA keyboards, showing keystrokes, simultaneous key presses, and layer changes in real time to build muscle memory. Recent updates added a Book mode, which lets users type through curated classic books, expanding the platform beyond simple drills into longer-form practice. Overall, it matters because it combines speed training with layout-specific practice, making it especially useful for people adapting to ergonomic or custom keyboards.",
+      "date": "2026-08-18T15:12:53.000Z",
       "type": "tech"
-    },
-    {
-      "id": "de-poNP-HUFFWsy",
-      "title": "The Third-Generation GUI Builder: One Workspace for Every Form",
-      "url": "https://dev.to/codenameone/the-third-generation-gui-builder-one-workspace-for-every-form-4mdh",
-      "source": "devto",
-      "score": 0,
-      "summary": "Codename One’s third-generation GUI Builder shifts from editing a single file to working at the project level, launching from a Maven command and showing every `.gui` form in one workspace. The editor keeps the guided layout workflow but adds faster switching between forms, live CSS editing, and direct access to companion Java source with protected regions for custom code. It also fits better into modern Maven-based projects by scanning `src/main/guibuilder` recursively and resolving the builder through Maven rather than a separate editor session. That matters because it makes large apps with many forms feel unified and lowers the friction between visual design, styling, and code maintenance.",
-      "date": "2026-08-21T13:39:34Z",
-      "type": "tech"
-    },
-    {
-      "id": "bb-JGDs3dz6n6fu",
-      "title": "Five missing after fire in Swiss Alpine town",
-      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "A fire in the Swiss Alpine town of Thusis left five people missing and eight injured, including two with severe injuries, after it totally devastated a restaurant that also contained apartments. Police say 14 people escaped the building, while firefighters and emergency crews are still carefully removing the roof and searching through the collapsed stairwell for the missing. Investigators believe the blaze started on the second floor, but the cause has not yet been determined and is being examined by cantonal police and prosecutors. The incident matters because it has turned into a major rescue-and-investigation effort, with the possibility that foreign nationals were among those inside and the search potentially lasting several days.",
-      "date": "2026-08-21T13:10:39.000Z",
-      "type": "europe"
-    },
-    {
-      "id": "bb-3uch0A3OVgCy",
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "The BBC reports that drivers in Moscow and other parts of Russia have been waiting hours in petrol queues as fuel shortages spread, even as the city gets ready to mark Russian Flag Day. Officials blame the disruption on unscheduled maintenance at oil refineries, which the article says has been triggered by Ukrainian drone strikes on Russian energy infrastructure. The piece notes that the shortages are a visible sign of the war hitting everyday life inside Russia, with queues becoming longer and the government even allowing production and sale of lower-grade petrol to ease pressure. Its significance is that it shows how Ukraine’s attacks are increasingly affecting Russian civilians and exposing strain in Russia’s refining and supply system, while public support and patriotic sentiment remain intact.",
-      "date": "2026-08-21T13:07:00.000Z",
-      "type": "europe"
-    },
-    {
-      "id": "ha-buxC3Oqqdc98",
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "source": "hackernews",
-      "score": 687,
-      "summary": "Samuel Tunick, a U.S. citizen returning through Hartsfield-Jackson Atlanta International Airport in January 2025, says customs agents asked to inspect his Google Pixel and he gave them a duress code that wiped the phone’s contents. Federal prosecutors later indicted him in November 2025 on an obstruction charge under a little-used statute that makes it a felony to destroy property to prevent government seizure, a case now seen as one of the first of its kind involving phone-wiping software. Tunick has pleaded not guilty and is fighting to suppress the evidence, while the case raises a broader question about how far border agents can go in searching electronic devices and how travelers can protect their data. It matters because the prosecution could set an important precedent for digital privacy, border searches, and whether using self-destruct or remote-wipe features can itself become a crime.",
-      "date": "2026-08-21T12:10:13.000Z",
-      "type": "tech"
-    },
-    {
-      "id": "bb-aG9sFomJnI3F",
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "Pakistan’s former prime minister Imran Khan was briefly taken from jail to a hospital in Islamabad after the Supreme Court ordered a medical examination within 48 hours, following complaints about his health. Doctors at the hospital examined him and declared him medically fit, after which he was sent back to custody early Friday morning. The move matters because it highlights the continuing legal and health battles around Khan, who has been imprisoned since 2023 and whose supporters have long argued he is being denied proper access to medical care and family visits.",
-      "date": "2026-08-21T10:46:09.000Z",
-      "type": "asia"
-    },
-    {
-      "id": "go-Aws1KrObA5m6",
-      "title": "Connecting East Asia, Embracing the World: Contemporary Echoes of Confucian Dialogue - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnN2T01RTlQ5Vi1LZTlqbTNKTkRsaHJQNWN2T2RndFZyNjhzVjZHLVpoZ0JJRGg0WmNwVk5kbURsRl9OWWZtNkh1Q2xiNTMxb0dQdjdybGxLWEw2MUJSeHFzNXl0TF9yNkZMRTdfaFN6UlFCWExyOEFkQ1N3RWJYZk9yVE1jSTdmeXktSXZ3?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "The article describes a weeklong East Asian Confucianism dialogue held in Guiyang, where scholars from China, Japan, South Korea, Singapore, Vietnam, Europe, and the U.S. met under the theme of how Confucian thought can speak to modernization and global civilizational exchange. At the Aug. 7 keynote and outcomes-release session, organizers presented research on the cross-regional spread of Wang Yangming’s School of Mind over five centuries and argued that it can help explain East Asia’s modernization and broader intercultural integration. The event also announced plans to expand the current forum into an institutionalized International 50-Scholars Forum on Confucianism, bringing together senior experts and young scholars on a regular basis. It matters because it shows Confucian studies being used not as a historical topic alone, but as a living platform for regional cooperation, academic exchange, and a broader conversation about identity and development in East Asia.",
-      "date": "2026-08-21T10:32:00.000Z",
-      "type": "asia"
-    },
-    {
-      "id": "bb-MampejsG7NjW",
-      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "The bodies of two Belgian mountaineers who vanished in the Swiss Alps in 1992 were found after a hiker spotted human remains on the Trift Glacier on July 26. Swiss police said DNA analysis later confirmed the men were the same hikers who disappeared near the Weissmies mountain 34 years ago, when they were 39 and 41. Their remains were recovered and taken to Sion for identification, underscoring how retreating glaciers are increasingly revealing long-missing people and objects from decades past. It matters because the case shows the human cost of glacier melt and how climate change is exposing hidden histories in the Alps.",
-      "date": "2026-08-21T10:03:17.000Z",
-      "type": "europe"
-    },
-    {
-      "id": "go-d7cDGtPmkCz0",
-      "title": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHBEMV8zTVVPOWVRcnpDUHZpRGJ3SkstMk1LWVplNXUySXJzWkNwZFJ4b1BDNllqb3YzeTUxcjR6azFsdnBadkxEMHFaLUhDSGR6S1c1bXVlM2dqNFI4dU1lZ3prZGVRUU5DZTZFOWJ6eHRXSlRGSzdyY0ViYjlPTkdEbE9HaXJ6QTB0WUhRd0NiSmZIZzJLbFprWGR5T001Z1c0NjdEVU_SAa4BQVVfeXFMTlNUNjE3OXZTbGVJMUtjNHViZmZRS2JvUnY4Q2xmU1dGVjBwWmlpSXlKNVV3cmlBd1NVTE9OTXVtYklXZWFMYUZGbXNpYnF6WTE1VGZVZHFTYzRiOEJ2VDlGYWd3N2V4UVR6X2VEdGpTbmtoR2V0NlZBcU9OUDVGWm84eG5BZm5qOF9yY0tRQVRvSzJPR2NuYnFzZ2llNTdId3Vzel9kTjVKejY2ckR3?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "Pop Mart shares fell more than 4% in Hong Kong after its first-half results showed uneven growth: revenue rose 23.8% to 17.17 billion yuan, but Asia-Pacific ex-China sales fell 9.7% and Americas revenue dropped 16.5%, even as China revenue jumped 47.3%. Citi said the overseas slowdown came in below expectations, cut its price target to HK$198 from a higher level, and now expects Pop Mart’s 2026 group revenue to decline 8%. The article matters because it shows the Labubu maker’s growth is becoming much more dependent on China while its key international markets weaken, a reversal that could pressure valuation and future earnings momentum.",
-      "date": "2026-08-21T07:13:07.000Z",
-      "type": "asia"
-    },
-    {
-      "id": "go-KtFiM_4pKJbf",
-      "title": "Asia First - Fri 21 Aug 2026 - CNA",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mS0tYYjMtZENnUlJYR1NuYlV3Y2xCUVE0TFNBVWlsQVNfLS1TS05ISXNYVjJFVHAyUVBVY0hoSzg1c1dMMVVSZThCWXNnSjhuekJtTFlxWkdDSW0tYk4zMVRkTlhWLXd5N2JxVWVxV2xJRjRjZkYyaDZreU4?oc=5",
-      "source": "googlenews",
-      "score": 0,
-      "summary": "CNA’s \"Asia First\" for Fri 21 Aug 2026 is a two-hour, 27-minute morning news program focused on the day’s top Asia-Pacific developments, but the episode page itself is unavailable. The linked coverage around the same broadcast includes stories on Taiwan’s record-breaking defense budget, India-Japan defense ties, Malaysia’s Anwar and his PKR party after electoral setbacks, China’s livestreaming boom and burnout, and climate-driven changes in farming. That mix shows the program’s focus on fast-moving regional politics, security, business, and social issues that shape Asia’s agenda. It matters because it packages the key headlines in bite-sized form for viewers tracking the region’s biggest strategic and economic shifts.",
-      "date": "2026-08-21T06:00:00.000Z",
-      "type": "asia"
-    },
-    {
-      "id": "bb-t2QP5CEARYpn",
-      "title": "Hong Kong's Tiananmen activists convicted in national security trial",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "bbc",
-      "score": 0,
-      "summary": "Two Hong Kong activists, Lee Cheuk-yan and Chow Hang-tung, were convicted in a national security case for inciting others to subvert state power by helping organize the city’s annual Tiananmen vigil commemorations. Prosecutors said they encouraged people to ‘organize, plan, commit, or engage in acts by unlawful means’ aimed at undermining state authority, and each now faces up to 10 years in prison, with sentencing to come later. The case is significant because it shows how Beijing’s national security law has been used against some of Hong Kong’s best-known democracy and remembrance campaigners, further narrowing the space for public dissent and political expression.",
-      "date": "2026-08-21T05:47:32.000Z",
-      "type": "asia"
     }
   ]
 }
